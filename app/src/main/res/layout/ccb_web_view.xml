@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+    
+    
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:id="@+id/stop"
+        android:layout_weight="7"
+        android:layout_height="match_parent" >
+
+        <ProgressBar
+            android:id="@+id/helpWebProgress"
+            style="?android:attr/progressBarStyleHorizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="10dip"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true" />
+
+        <WebView
+            android:id="@id/ccb_webview"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@+id/helpWebProgress" />
+
+    </RelativeLayout>
+
+     <Button
+         android:id="@+id/show"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:background="#00BFFF"
+        android:padding="@dimen/dialog_btn_padding"
+        android:text="进入充值"
+        android:textColor="@color/white"
+        android:visibility="gone"
+        android:textSize="25sp"/>
+
+</LinearLayout>

@@ -1,0 +1,131 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/www"
+    tools:context="com.sdhy.cpucardoper.activity.AboutActivity" >
+
+   
+    <RelativeLayout
+        android:id="@+id/homepage_title"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:background="#00BFFF" >
+        
+         <ImageView
+            android:id="@+id/about_back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="5dp"
+            android:background="@drawable/fujin_03" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:gravity="center_vertical"
+            android:text="关于 "
+            android:textColor="#ffffff"
+            android:textSize="25sp" />
+
+      
+        </RelativeLayout>
+
+   
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/homepage_title"
+        android:layout_marginTop="30dp"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            
+            android:gravity="center_horizontal" >
+
+            <ImageView
+                android:layout_width="65dp"
+                android:layout_height="65dp"
+                android:layout_gravity="center_horizontal"
+                android:background="@drawable/ic_launcher"
+                android:gravity="center_horizontal" />
+        </LinearLayout>
+        
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="10dp"
+            android:gravity="center_horizontal" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:text="公交充值"
+                android:textSize="16dp"
+                android:textColor="#000000"
+                android:gravity="center_horizontal" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="10dp"
+            android:gravity="center_horizontal" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:text="版本   1.2"
+                android:textSize="14dp"
+                android:textColor="#FC7661"
+                android:gravity="center_horizontal" />
+        </LinearLayout>
+        
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dp"
+            >
+
+            <TextView
+                android:id="@+id/about_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:text="    山东恒宇电子有限公司具有雄厚的科技开发实力，具有成熟的软硬件研发体系，拥有一批专业从事计算机控制、电子信息技术、智能卡技术应用、系统集成等高科技项目研发、生产及实施高级专业人才，企业拥有自主知识产权，国家级“双软”企业及信息产业部计算机系统集成资质。"
+                android:textSize="16dp"
+                android:textColor="#000000"
+                 />
+        </LinearLayout>
+        
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:text="山东恒宇电子有限公司"
+                android:textSize="16dp"
+                android:layout_marginTop="90dp"
+                android:textColor="#8F8F8F"
+                 />
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:text="copyright©2017-2025"
+                android:textSize="16dp"
+                android:textColor="#8F8F8F"
+                 />
+        
+    </LinearLayout>
+</RelativeLayout>

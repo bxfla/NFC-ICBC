@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:background="#00BFFF"
+        android:padding="10dp" >
+
+        <RelativeLayout
+                android:id="@+id/alljob_black3"
+                android:layout_width="100dp"
+                android:layout_height="50dp"
+                android:layout_alignParentLeft="true"
+                android:layout_marginLeft="5dp" >
+
+                <ImageView
+                    android:id="@+id/newdema_location"
+                    android:layout_width="wrap_content"
+                    android:layout_height="50dp"
+                    android:layout_centerVertical="true"
+                    android:src="@drawable/fujin_03" />
+            </RelativeLayout>
+        
+        
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:layout_gravity="center_horizontal"
+            android:text="@string/activity_card_charge_title"
+            android:textColor="@color/white"
+            android:textSize="25sp"
+            />
+    </RelativeLayout>
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="1dip"
+        android:background="@color/title_seprater" />
+    
+    <ScrollView
+         android:layout_width="fill_parent"
+        android:layout_height="fill_parent" >
+         <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical" >
+          <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:orientation="horizontal" >
+        <TextView
+            android:id="@+id/lblCardNo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="5dp"
+            android:textSize="20sp" 
+            android:text="请输入卡号：" />
+        <EditText
+            android:id="@+id/textCardNo2"
+            android:layout_width="match_parent"
+            android:layout_height="26dp"
+             android:background="@drawable/edit_bag"
+             android:layout_marginRight="5dp"
+            android:textSize="16sp" />
+    </LinearLayout>
+    
+	<!-- 选择充值金额 -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="15dp"
+        android:text="@string/activity_card_charge_item2_tv"
+        android:textColor="@color/font_light_black"
+        android:textSize="@dimen/activity_card_charge_info" />
+
+    <com.sdhy.cpucardoper.view.FlowRadioGroup
+        android:id="@id/rg2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="5dp"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <RadioButton
+                android:id="@id/iv_charge_tv_money11"
+                style="@style/rb_style"
+                android:text="@string/charge_money_30" />
+
+            <TextView
+                android:layout_width="@dimen/activity_card_charge_tv_margin"
+                android:layout_height="wrap_content" />
+
+            <RadioButton
+                android:id="@id/iv_charge_tv_money22"
+                style="@style/rb_style"
+                android:text="@string/charge_money_50" />
+
+            <TextView
+                android:layout_width="@dimen/activity_card_charge_tv_margin"
+                android:layout_height="wrap_content" />
+
+            <RadioButton
+                android:id="@id/iv_charge_tv_money33"
+                style="@style/rb_style"
+                android:text="@string/charge_money_100" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/activity_card_charge_tv_margin"
+            android:orientation="horizontal" >
+
+            <RadioButton
+                android:id="@id/iv_charge_tv_money44"
+                style="@style/rb_style"
+                android:text="@string/charge_money_150" />
+
+            <TextView
+                android:layout_width="@dimen/activity_card_charge_tv_margin"
+                android:layout_height="wrap_content" />
+
+            <RadioButton
+                android:id="@id/iv_charge_tv_money55"
+                style="@style/rb_style"
+                android:text="@string/charge_money_200" />
+
+            <TextView
+                android:layout_width="@dimen/activity_card_charge_tv_margin"
+                android:layout_height="wrap_content" />
+
+            <RadioButton
+                android:id="@id/iv_charge_tv_money66"
+                style="@style/rb_style"
+                android:text="@string/charge_money_300" />
+        </LinearLayout>
+    </com.sdhy.cpucardoper.view.FlowRadioGroup>
+    
+     <Button
+        android:id="@+id/btn_select"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="10dp"
+        android:background="#00BFFF"
+        android:padding="@dimen/dialog_btn_padding"
+        android:text="未补登查询"
+        android:textColor="@color/white"
+        android:textSize="25sp"/>
+      <Button
+        android:id="@+id/btn_selectnew"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="10dp"
+        android:background="#00BFFF"
+        android:padding="@dimen/dialog_btn_padding"
+        android:text="交易记录"
+        android:textColor="@color/white"
+        android:textSize="25sp"/>
+ <Button
+        android:id="@+id/btn_login2"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="10dp"
+        android:background="#00BFFF"
+        android:padding="@dimen/dialog_btn_padding"
+        android:text="@string/dialog_register2_btn"
+        android:textColor="@color/white"
+        android:textSize="25sp"/>
+   
+    
+    
+ <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="30dp"
+        android:text="一、实现网上充值，需持卡到公交IC卡服务中心开通此项功能并为你提供系统内部充值卡号，请牢记该卡号并在网上交费时正确输入不能有误，否则损失由自己承担。\n二、适用普通卡、学生卡、老年优惠卡、纪念卡、菏泽交通一卡通卡网上交费。\n三、交费完成后请持卡到市区各建行营业网点补登或到其他公交补登点补登充值（了解详细补登点位置请登录公交微信公众号）。\n四、目前支持中国建设银行支付"
+        android:textColor="@color/font_light_black"
+        android:textSize="@dimen/activity_card_charge_info" />
+        
+</LinearLayout>
+    </ScrollView>
+
+   
+  
+   
+
+</LinearLayout>

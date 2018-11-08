@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+    <include layout="@layout/constant_header"/>
+    
+      <com.nohttp.util.NoScrollViewPager
+        android:id="@+id/fragment_container"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:layout_width="match_parent"/>
+    
+    <RadioGroup
+        android:id="@+id/main_rg"
+        android:background="@color/bg_gray"
+        android:layout_below="@+id/fragment_container"
+        android:layout_height="70dip"
+        android:layout_width="match_parent"
+        android:orientation="horizontal">
+        <RadioButton
+            android:id="@+id/rb0"
+            android:checked="true"
+            style="@style/main_tab_style"
+            android:drawableTop="@drawable/tab_01_bg"
+            android:text="充值"/>
+        <RadioButton
+            android:id="@+id/rb1"
+            style="@style/main_tab_style"
+            android:drawableTop="@drawable/tab_02_bg"
+            android:text="补偿"/>
+        <RadioButton
+            android:id="@+id/rb2"
+            style="@style/main_tab_style"
+           android:drawableTop="@drawable/tab_03_bg"
+            android:text="交易信息"/>
+          <RadioButton
+            android:id="@+id/rb3"
+            style="@style/main_tab_style"
+           android:drawableTop="@drawable/tab_04_bg"
+            android:text="余额查询"/>
+    </RadioGroup>
+
+</LinearLayout>

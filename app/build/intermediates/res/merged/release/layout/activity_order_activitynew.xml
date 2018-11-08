@@ -1,0 +1,49 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+  
+    tools:context="com.sdhy.cpucardoper.activity.OrderActivitynew" >
+    <RelativeLayout
+        android:id="@+id/tiop"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:background="#00BFFF"
+        android:padding="10dp" >
+
+        <RelativeLayout
+                android:id="@+id/order_black3"
+                android:layout_width="100dp"
+                android:layout_height="50dp"
+                android:layout_alignParentLeft="true"
+                android:layout_marginLeft="5dp" >
+
+                <ImageView
+                    android:id="@+id/newdema_location"
+                    android:layout_width="wrap_content"
+                    android:layout_height="50dp"
+                    android:layout_centerVertical="true"
+                    android:src="@drawable/fujin_03" />
+            </RelativeLayout>
+        
+        
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:layout_gravity="center_horizontal"
+            android:text="交易记录"
+            android:textColor="@color/white"
+            android:textSize="25sp"
+            />
+    </RelativeLayout>
+
+   <ListView 
+       android:layout_below="@+id/tiop"
+       android:layout_width="match_parent"
+    android:layout_height="match_parent"
+       android:id="@+id/cuslist"
+       ></ListView>
+
+</RelativeLayout>

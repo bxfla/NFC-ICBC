@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">公交充值</string>
+    <string name="activity_card_charge_title">公交充值</string>
+    <string name="activity_card_charge_mes1">支付方式目前支持中国建设银行支付</string>
+    <string name="dialog_register2_btn">立即支付</string>
+    <string name="charge_cardno">卡号：</string>
+    <string name="charge_balance">余额：</string>
+    <string name="activity_card_charge_item_tv">卡片信息</string>
+    <string name="activity_card_charge_item2_tv">请选择金额</string>
+    <string name="charge_money_30">1元</string>
+    <string name="charge_money_50">20元</string>
+    <string name="charge_money_100">30元</string>
+    <string name="charge_money_150">50元</string>
+    <string name="charge_money_200">100元</string>
+    <string name="charge_money_300">200元</string>
+    <string name="title_activity_online">OnlineActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_about">AboutActivity</string>
+    <string name="title_activity_order">OrderActivity</string>
+    <string name="title_activity_phonenuber">PhonenuberActivity</string>
+    <string name="title_activity_order_activitynew">OrderActivitynew</string>
+
+</resources>

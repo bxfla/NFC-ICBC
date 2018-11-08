@@ -1,0 +1,19 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!--
+         一个nfc_tech_filter.xml中可以定义多个<tech-list>结构组。
+               每一组代表我声明我只接受同时满足这些标准的nfc标签。
+               比如A组表示，只有同时满足IsoDep,NfcA,NfcB,NfcF这四个标准的nfc标签的intent才能进入
+               。A与B组之间的关系就是只要满足其中一个就可以了
+    -->
+    <!-- *******A组************** -->
+    <tech-list>
+        <tech>android.nfc.tech.IsoDep</tech>
+        <tech>android.nfc.tech.NfcA</tech>
+    </tech-list>
+    <!-- *******B组************** -->
+    <tech-list>
+        <tech>android.nfc.tech.MifareClassic</tech>
+    </tech-list>
+
+</resources>

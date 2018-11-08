@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "F:\\test\\CPUCardOper1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\order.xml",
+        "source": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\layout\\order.xml"
+    },
+    {
+        "merged": "F:\\test\\CPUCardOper1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_layout.xml",
+        "source": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\layout\\dialog_layout.xml"
+    },
+    {
+        "merged": "F:\\test\\CPUCardOper1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\read.xml",
+        "source": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\layout\\read.xml"
+    },
+    {
+        "merged": "F:\\test\\CPUCardOper1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sb_snack_container.xml",
+        "source": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\layout\\sb_snack_container.xml"
+    },
+    {
+        "merged": "F:\\test\\CPUCardOper1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_about.xml",
+        "source": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "F:\\test\\CPUCardOper1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\progress_dialog.xml",
+        "source": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\layout\\progress_dialog.xml"
+    },
+    {
+        "merged": "F:\\test\\CPUCardOper1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment1.xml",
+        "source": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\layout\\fragment1.xml"
+    },
+    {
+        "merged": "F:\\test\\CPUCardOper1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_phonenuber.xml",
+        "source": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\layout\\activity_phonenuber.xml"
+    },
+    {
+        "merged": "F:\\test\\CPUCardOper1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sb_snack.xml",
+        "source": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\layout\\sb_snack.xml"
+    },
+    {
+        "merged": "F:\\test\\CPUCardOper1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\progress.xml",
+        "source": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\layout\\progress.xml"
+    },
+    {
+        "merged": "F:\\test\\CPUCardOper1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\menu_button_text.xml",
+        "source": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\layout\\menu_button_text.xml"
+    },
+    {
+        "merged": "F:\\test\\CPUCardOper1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\constant_header.xml",
+        "source": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\layout\\constant_header.xml"
+    },
+    {
+        "merged": "F:\\test\\CPUCardOper1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\test\\CPUCardOper1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_charge.xml",
+        "source": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\layout\\activity_charge.xml"
+    },
+    {
+        "merged": "F:\\test\\CPUCardOper1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_order_activitynew.xml",
+        "source": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\layout\\activity_order_activitynew.xml"
+    },
+    {
+        "merged": "F:\\test\\CPUCardOper1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_base.xml",
+        "source": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\layout\\activity_base.xml"
+    },
+    {
+        "merged": "F:\\test\\CPUCardOper1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_online.xml",
+        "source": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\layout\\activity_online.xml"
+    },
+    {
+        "merged": "F:\\test\\CPUCardOper1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_alertdialog.xml",
+        "source": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\layout\\view_alertdialog.xml"
+    },
+    {
+        "merged": "F:\\test\\CPUCardOper1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "F:\\test\\CPUCardOper1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_card_charge.xml",
+        "source": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\layout\\activity_card_charge.xml"
+    },
+    {
+        "merged": "F:\\test\\CPUCardOper1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\menu_button_image.xml",
+        "source": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\layout\\menu_button_image.xml"
+    },
+    {
+        "merged": "F:\\test\\CPUCardOper1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_order.xml",
+        "source": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\layout\\activity_order.xml"
+    },
+    {
+        "merged": "F:\\test\\CPUCardOper1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main1.xml",
+        "source": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\layout\\activity_main1.xml"
+    },
+    {
+        "merged": "F:\\test\\CPUCardOper1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\noorder.xml",
+        "source": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\layout\\noorder.xml"
+    },
+    {
+        "merged": "F:\\test\\CPUCardOper1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ccb_web_view.xml",
+        "source": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\layout\\ccb_web_view.xml"
+    },
+    {
+        "merged": "F:\\test\\CPUCardOper1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\share_popup_menu.xml",
+        "source": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\layout\\share_popup_menu.xml"
+    },
+    {
+        "merged": "F:\\test\\CPUCardOper1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_first.xml",
+        "source": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\layout\\activity_first.xml"
+    }
+]

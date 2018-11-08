@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item name="dialog" type="id"/>
+    <item name="et_user" type="id"/>
+    <item name="et_pass" type="id"/>
+    <item name="btn_register" type="id"/>
+    <item name="btn_login" type="id"/>
+    <item name="btn_login2" type="id"/>
+    <item name="tv_findpass" type="id"/>
+    <item name="btn_back" type="id"/>
+    <item name="et_phone" type="id"/>
+    <item name="et_code" type="id"/>
+    <item name="tv_verify_code" type="id"/>
+    <item name="customprogressdialog_tv" type="id"/>
+    <item name="dialog_title_font" type="id"></item>
+    <item name="tv_charge_id" type="id"></item>
+    <item name="iv_charge_edit_id" type="id"></item>
+    <item name="iv_charge_tv_money1" type="id"></item>
+    <item name="iv_charge_tv_money2" type="id"></item>
+    <item name="iv_charge_tv_money3" type="id"></item>
+    <item name="iv_charge_tv_money4" type="id"></item>
+    <item name="iv_charge_tv_money5" type="id"></item>
+    <item name="iv_charge_tv_money6" type="id"></item>
+    
+    <item name="iv_charge_tv_money11" type="id"></item>
+    <item name="iv_charge_tv_money22" type="id"></item>
+    <item name="iv_charge_tv_money33" type="id"></item>
+    <item name="iv_charge_tv_money44" type="id"></item>
+    <item name="iv_charge_tv_money55" type="id"></item>
+    <item name="iv_charge_tv_money66" type="id"></item>
+    <item name="rg2" type="id"></item>
+    <item name="select2" type="id"></item>
+    <item name="rg" type="id"></item>
+    <item name="select" type="id"></item>
+	<item type="id" name="ccb_webview">false</item>
+</resources>

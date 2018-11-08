@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "F:\\test\\CPUCardOper1\\app\\build\\intermediates\\res\\merged\\release\\menu\\order.xml",
+        "source": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\menu\\order.xml"
+    },
+    {
+        "merged": "F:\\test\\CPUCardOper1\\app\\build\\intermediates\\res\\merged\\release\\menu\\order_activitynew.xml",
+        "source": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\menu\\order_activitynew.xml"
+    },
+    {
+        "merged": "F:\\test\\CPUCardOper1\\app\\build\\intermediates\\res\\merged\\release\\menu\\phonenuber.xml",
+        "source": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\menu\\phonenuber.xml"
+    },
+    {
+        "merged": "F:\\test\\CPUCardOper1\\app\\build\\intermediates\\res\\merged\\release\\menu\\about.xml",
+        "source": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\menu\\about.xml"
+    },
+    {
+        "merged": "F:\\test\\CPUCardOper1\\app\\build\\intermediates\\res\\merged\\release\\menu\\online.xml",
+        "source": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\menu\\online.xml"
+    },
+    {
+        "merged": "F:\\test\\CPUCardOper1\\app\\build\\intermediates\\res\\merged\\release\\menu\\main.xml",
+        "source": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\menu\\main.xml"
+    }
+]

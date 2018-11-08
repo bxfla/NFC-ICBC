@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "F:\\test\\CPUCardOper1\\app\\build\\intermediates\\res\\merged\\release\\anim\\anim_dialog_bottom_in.xml",
+        "source": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\anim\\anim_dialog_bottom_in.xml"
+    },
+    {
+        "merged": "F:\\test\\CPUCardOper1\\app\\build\\intermediates\\res\\merged\\release\\anim\\push_up_in.xml",
+        "source": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\anim\\push_up_in.xml"
+    },
+    {
+        "merged": "F:\\test\\CPUCardOper1\\app\\build\\intermediates\\res\\merged\\release\\anim\\push_bottom_in.xml",
+        "source": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\anim\\push_bottom_in.xml"
+    },
+    {
+        "merged": "F:\\test\\CPUCardOper1\\app\\build\\intermediates\\res\\merged\\release\\anim\\fade_in.xml",
+        "source": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "F:\\test\\CPUCardOper1\\app\\build\\intermediates\\res\\merged\\release\\anim\\anim_dialog_bottom_out.xml",
+        "source": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\anim\\anim_dialog_bottom_out.xml"
+    }
+]

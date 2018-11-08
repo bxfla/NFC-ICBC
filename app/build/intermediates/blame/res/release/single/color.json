@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "F:\\test\\CPUCardOper1\\app\\build\\intermediates\\res\\merged\\release\\color\\mm_actbtn_text.xml",
+        "source": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\color\\mm_actbtn_text.xml"
+    },
+    {
+        "merged": "F:\\test\\CPUCardOper1\\app\\build\\intermediates\\res\\merged\\release\\color\\sb_button_text_color_red.xml",
+        "source": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\color\\sb_button_text_color_red.xml"
+    },
+    {
+        "merged": "F:\\test\\CPUCardOper1\\app\\build\\intermediates\\res\\merged\\release\\color\\mm_pref_title.xml",
+        "source": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\color\\mm_pref_title.xml"
+    },
+    {
+        "merged": "F:\\test\\CPUCardOper1\\app\\build\\intermediates\\res\\merged\\release\\color\\mm_choice_text_color.xml",
+        "source": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\color\\mm_choice_text_color.xml"
+    },
+    {
+        "merged": "F:\\test\\CPUCardOper1\\app\\build\\intermediates\\res\\merged\\release\\color\\mm_style_two_btn_text.xml",
+        "source": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\color\\mm_style_two_btn_text.xml"
+    },
+    {
+        "merged": "F:\\test\\CPUCardOper1\\app\\build\\intermediates\\res\\merged\\release\\color\\mm_title_btn_text.xml",
+        "source": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\color\\mm_title_btn_text.xml"
+    },
+    {
+        "merged": "F:\\test\\CPUCardOper1\\app\\build\\intermediates\\res\\merged\\release\\color\\sb_button_text_color_green.xml",
+        "source": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\color\\sb_button_text_color_green.xml"
+    },
+    {
+        "merged": "F:\\test\\CPUCardOper1\\app\\build\\intermediates\\res\\merged\\release\\color\\mm_pref_summary.xml",
+        "source": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\color\\mm_pref_summary.xml"
+    },
+    {
+        "merged": "F:\\test\\CPUCardOper1\\app\\build\\intermediates\\res\\merged\\release\\color\\mm_list_textcolor_time.xml",
+        "source": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\color\\mm_list_textcolor_time.xml"
+    },
+    {
+        "merged": "F:\\test\\CPUCardOper1\\app\\build\\intermediates\\res\\merged\\release\\color\\mm_btn_text.xml",
+        "source": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\color\\mm_btn_text.xml"
+    },
+    {
+        "merged": "F:\\test\\CPUCardOper1\\app\\build\\intermediates\\res\\merged\\release\\color\\mm_list_textcolor_two.xml",
+        "source": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\color\\mm_list_textcolor_two.xml"
+    },
+    {
+        "merged": "F:\\test\\CPUCardOper1\\app\\build\\intermediates\\res\\merged\\release\\color\\main_tab_color_bg.xml",
+        "source": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\color\\main_tab_color_bg.xml"
+    },
+    {
+        "merged": "F:\\test\\CPUCardOper1\\app\\build\\intermediates\\res\\merged\\release\\color\\sb_button_text_color_yellow.xml",
+        "source": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\color\\sb_button_text_color_yellow.xml"
+    },
+    {
+        "merged": "F:\\test\\CPUCardOper1\\app\\build\\intermediates\\res\\merged\\release\\color\\mm_list_textcolor_one.xml",
+        "source": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\color\\mm_list_textcolor_one.xml"
+    },
+    {
+        "merged": "F:\\test\\CPUCardOper1\\app\\build\\intermediates\\res\\merged\\release\\color\\mm_hyper_text.xml",
+        "source": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\color\\mm_hyper_text.xml"
+    },
+    {
+        "merged": "F:\\test\\CPUCardOper1\\app\\build\\intermediates\\res\\merged\\release\\color\\mm_style_one_btn_text.xml",
+        "source": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\color\\mm_style_one_btn_text.xml"
+    },
+    {
+        "merged": "F:\\test\\CPUCardOper1\\app\\build\\intermediates\\res\\merged\\release\\color\\sb_default_button_text_color.xml",
+        "source": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\color\\sb_default_button_text_color.xml"
+    }
+]

@@ -1,0 +1,5058 @@
+[
+    {
+        "outputFile": "F:\\test\\CPUCardOper1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 59,
+                    "endOffset": 110
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 66,
+                        "startColumn": 4,
+                        "startOffset": 2525,
+                        "endColumn": 59,
+                        "endOffset": 2580
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 115,
+                    "endColumn": 42,
+                    "endOffset": 153
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 68,
+                        "startColumn": 4,
+                        "startOffset": 2592,
+                        "endColumn": 42,
+                        "endOffset": 2630
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 158,
+                    "endColumn": 41,
+                    "endOffset": 195
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 4,
+                        "startOffset": 1944,
+                        "endColumn": 41,
+                        "endOffset": 1981
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 200,
+                    "endColumn": 42,
+                    "endOffset": 238
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 4,
+                        "startOffset": 1987,
+                        "endColumn": 42,
+                        "endOffset": 2025
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 243,
+                    "endColumn": 47,
+                    "endOffset": 286
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 4,
+                        "startOffset": 2324,
+                        "endColumn": 47,
+                        "endOffset": 2367
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 291,
+                    "endColumn": 47,
+                    "endOffset": 334
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 4,
+                        "startOffset": 2373,
+                        "endColumn": 47,
+                        "endOffset": 2416
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 339,
+                    "endColumn": 47,
+                    "endOffset": 382
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 2134,
+                        "endColumn": 47,
+                        "endOffset": 2177
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 387,
+                    "endColumn": 41,
+                    "endOffset": 424
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 352,
+                        "endColumn": 41,
+                        "endOffset": 389
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 429,
+                    "endColumn": 40,
+                    "endOffset": 465
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 564,
+                        "endColumn": 40,
+                        "endOffset": 600
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 470,
+                    "endColumn": 49,
+                    "endOffset": 515
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 1573,
+                        "endColumn": 49,
+                        "endOffset": 1618
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 520,
+                    "endColumn": 50,
+                    "endOffset": 566
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 1624,
+                        "endColumn": 50,
+                        "endOffset": 1670
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 571,
+                    "endColumn": 44,
+                    "endOffset": 611
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 44,
+                        "endOffset": 97
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 616,
+                    "endColumn": 46,
+                    "endOffset": 658
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1024,
+                        "endColumn": 46,
+                        "endOffset": 1066
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 663,
+                    "endColumn": 56,
+                    "endOffset": 715
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1072,
+                        "endColumn": 56,
+                        "endOffset": 1124
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 720,
+                    "endColumn": 49,
+                    "endOffset": 765
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 4,
+                        "startOffset": 2083,
+                        "endColumn": 49,
+                        "endOffset": 2128
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 770,
+                    "endColumn": 50,
+                    "endOffset": 816
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 2031,
+                        "endColumn": 50,
+                        "endOffset": 2077
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 821,
+                    "endColumn": 45,
+                    "endOffset": 862
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 4,
+                        "startOffset": 2233,
+                        "endColumn": 45,
+                        "endOffset": 2274
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 867,
+                    "endColumn": 42,
+                    "endOffset": 905
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 4,
+                        "startOffset": 2280,
+                        "endColumn": 42,
+                        "endOffset": 2318
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 910,
+                    "endColumn": 40,
+                    "endOffset": 946
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 395,
+                        "endColumn": 40,
+                        "endOffset": 431
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 951,
+                    "endColumn": 41,
+                    "endOffset": 988
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 521,
+                        "endColumn": 41,
+                        "endOffset": 558
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 993,
+                    "endColumn": 54,
+                    "endOffset": 1043
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 1696,
+                        "endColumn": 54,
+                        "endOffset": 1746
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1048,
+                    "endColumn": 55,
+                    "endOffset": 1099
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 1752,
+                        "endColumn": 55,
+                        "endOffset": 1803
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1104,
+                    "endColumn": 50,
+                    "endOffset": 1150
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 65,
+                        "startColumn": 4,
+                        "startOffset": 2473,
+                        "endColumn": 50,
+                        "endOffset": 2519
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1155,
+                    "endColumn": 45,
+                    "endOffset": 1196
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 148,
+                        "endColumn": 45,
+                        "endOffset": 189
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1201,
+                    "endColumn": 51,
+                    "endOffset": 1248
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 248,
+                        "endColumn": 51,
+                        "endOffset": 295
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1253,
+                    "endColumn": 44,
+                    "endOffset": 1293
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1130,
+                        "endColumn": 44,
+                        "endOffset": 1170
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1298,
+                    "endColumn": 43,
+                    "endOffset": 1337
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 301,
+                        "endColumn": 43,
+                        "endOffset": 340
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1342,
+                    "endColumn": 42,
+                    "endOffset": 1380
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 650,
+                        "endColumn": 42,
+                        "endOffset": 688
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1385,
+                    "endColumn": 47,
+                    "endOffset": 1428
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 975,
+                        "endColumn": 47,
+                        "endOffset": 1018
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1433,
+                    "endColumn": 42,
+                    "endOffset": 1471
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 694,
+                        "endColumn": 42,
+                        "endOffset": 732
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 1476,
+                    "endColumn": 39,
+                    "endOffset": 1511
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 480,
+                        "endColumn": 39,
+                        "endOffset": 515
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 1516,
+                    "endColumn": 46,
+                    "endOffset": 1558
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 1455,
+                        "endColumn": 46,
+                        "endOffset": 1497
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 1563,
+                    "endColumn": 47,
+                    "endOffset": 1606
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 1503,
+                        "endColumn": 47,
+                        "endOffset": 1546
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 1611,
+                    "endColumn": 55,
+                    "endOffset": 1662
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 72,
+                        "startColumn": 4,
+                        "startOffset": 2792,
+                        "endColumn": 55,
+                        "endOffset": 2843
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 1667,
+                    "endColumn": 49,
+                    "endOffset": 1712
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 71,
+                        "startColumn": 4,
+                        "startOffset": 2741,
+                        "endColumn": 49,
+                        "endOffset": 2786
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 1717,
+                    "endColumn": 49,
+                    "endOffset": 1762
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 69,
+                        "startColumn": 5,
+                        "startOffset": 2637,
+                        "endColumn": 50,
+                        "endOffset": 2682
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 1767,
+                    "endColumn": 51,
+                    "endOffset": 1814
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 70,
+                        "startColumn": 4,
+                        "startOffset": 2688,
+                        "endColumn": 51,
+                        "endOffset": 2735
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 1819,
+                    "endColumn": 51,
+                    "endOffset": 1866
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 195,
+                        "endColumn": 51,
+                        "endOffset": 242
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 1871,
+                    "endColumn": 55,
+                    "endOffset": 1922
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1195,
+                        "endColumn": 55,
+                        "endOffset": 1246
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 1927,
+                    "endColumn": 56,
+                    "endOffset": 1979
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1252,
+                        "endColumn": 56,
+                        "endOffset": 1304
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 1984,
+                    "endColumn": 48,
+                    "endOffset": 2028
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 59,
+                        "startColumn": 4,
+                        "startOffset": 2183,
+                        "endColumn": 48,
+                        "endOffset": 2227
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 2033,
+                    "endColumn": 49,
+                    "endOffset": 2078
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 64,
+                        "startColumn": 4,
+                        "startOffset": 2422,
+                        "endColumn": 49,
+                        "endOffset": 2467
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 2083,
+                    "endColumn": 43,
+                    "endOffset": 2122
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 103,
+                        "endColumn": 43,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 2127,
+                    "endColumn": 47,
+                    "endOffset": 2170
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 738,
+                        "endColumn": 47,
+                        "endOffset": 781
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 2175,
+                    "endColumn": 54,
+                    "endOffset": 2225
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 787,
+                        "endColumn": 54,
+                        "endOffset": 837
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 2230,
+                    "endColumn": 54,
+                    "endOffset": 2280
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 843,
+                        "endColumn": 54,
+                        "endOffset": 893
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 2285,
+                    "endColumn": 41,
+                    "endOffset": 2322
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 437,
+                        "endColumn": 41,
+                        "endOffset": 474
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 2327,
+                    "endColumn": 48,
+                    "endOffset": 2371
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1329,
+                        "endColumn": 48,
+                        "endOffset": 1373
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 2376,
+                    "endColumn": 49,
+                    "endOffset": 2421
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1379,
+                        "endColumn": 49,
+                        "endOffset": 1424
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 2426,
+                    "endColumn": 42,
+                    "endOffset": 2464
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 606,
+                        "endColumn": 42,
+                        "endOffset": 644
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 2469,
+                    "endColumn": 54,
+                    "endOffset": 2519
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 4,
+                        "startOffset": 1829,
+                        "endColumn": 54,
+                        "endOffset": 1879
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 2524,
+                    "endColumn": 55,
+                    "endOffset": 2575
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 1885,
+                        "endColumn": 55,
+                        "endOffset": 1936
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 2580,
+                    "endColumn": 44,
+                    "endOffset": 2620
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 101,
+                        "endColumn": 44,
+                        "endOffset": 141
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 2625,
+                    "endColumn": 55,
+                    "endOffset": 2676
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 384,
+                        "endColumn": 55,
+                        "endOffset": 435
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 2681,
+                    "endColumn": 47,
+                    "endOffset": 2724
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 335,
+                        "endColumn": 47,
+                        "endOffset": 378
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 2729,
+                    "endColumn": 53,
+                    "endOffset": 2778
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 494,
+                        "endColumn": 53,
+                        "endOffset": 543
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 2783,
+                    "endColumn": 46,
+                    "endOffset": 2825
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 549,
+                        "endColumn": 46,
+                        "endOffset": 591
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 2830,
+                    "endColumn": 44,
+                    "endOffset": 2870
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 2,
+                        "startOffset": 55,
+                        "endColumn": 42,
+                        "endOffset": 95
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 2875,
+                    "endColumn": 46,
+                    "endOffset": 2917
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 287,
+                        "endColumn": 46,
+                        "endOffset": 329
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 2922,
+                    "endColumn": 51,
+                    "endOffset": 2969
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 441,
+                        "endColumn": 51,
+                        "endOffset": 488
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 2974,
+                    "endColumn": 44,
+                    "endOffset": 3014
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 193,
+                        "endColumn": 44,
+                        "endOffset": 233
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 3019,
+                    "endColumn": 46,
+                    "endOffset": 3061
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 239,
+                        "endColumn": 46,
+                        "endOffset": 281
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 3066,
+                    "endColumn": 44,
+                    "endOffset": 3106
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 44,
+                        "endOffset": 187
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 3111,
+                    "endColumn": 56,
+                    "endOffset": 3163
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 4,
+                        "startOffset": 2631,
+                        "endColumn": 56,
+                        "endOffset": 2683
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 3168,
+                    "endColumn": 54,
+                    "endOffset": 3218
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 4,
+                        "startOffset": 2689,
+                        "endColumn": 54,
+                        "endOffset": 2739
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 3223,
+                    "endColumn": 60,
+                    "endOffset": 3279
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 4,
+                        "startOffset": 2745,
+                        "endColumn": 60,
+                        "endOffset": 2801
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 3284,
+                    "endColumn": 54,
+                    "endOffset": 3334
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 4,
+                        "startOffset": 2807,
+                        "endColumn": 54,
+                        "endOffset": 2857
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 3339,
+                    "endColumn": 57,
+                    "endOffset": 3392
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 2519,
+                        "endColumn": 57,
+                        "endOffset": 2572
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 3397,
+                    "endColumn": 51,
+                    "endOffset": 3444
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 59,
+                        "startColumn": 4,
+                        "startOffset": 2578,
+                        "endColumn": 51,
+                        "endOffset": 2625
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 3449,
+                    "endColumn": 57,
+                    "endOffset": 3502
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 1797,
+                        "endColumn": 57,
+                        "endOffset": 1850
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 3507,
+                    "endColumn": 52,
+                    "endOffset": 3555
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 4,
+                        "startOffset": 2157,
+                        "endColumn": 52,
+                        "endOffset": 2205
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 3560,
+                    "endColumn": 57,
+                    "endOffset": 3613
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 2211,
+                        "endColumn": 57,
+                        "endOffset": 2264
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 3618,
+                    "endColumn": 55,
+                    "endOffset": 3669
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 1856,
+                        "endColumn": 55,
+                        "endOffset": 1907
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 3674,
+                    "endColumn": 49,
+                    "endOffset": 3719
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 4,
+                        "startOffset": 2318,
+                        "endColumn": 49,
+                        "endOffset": 2363
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 3724,
+                    "endColumn": 48,
+                    "endOffset": 3768
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 2009,
+                        "endColumn": 48,
+                        "endOffset": 2053
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 3773,
+                    "endColumn": 48,
+                    "endOffset": 3817
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 1959,
+                        "endColumn": 48,
+                        "endOffset": 2003
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 3822,
+                    "endColumn": 45,
+                    "endOffset": 3863
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 2110,
+                        "endColumn": 45,
+                        "endOffset": 2151
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 3868,
+                    "endColumn": 51,
+                    "endOffset": 3915
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 2419,
+                        "endColumn": 51,
+                        "endOffset": 2466
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 3920,
+                    "endColumn": 48,
+                    "endOffset": 3964
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 4,
+                        "startOffset": 2369,
+                        "endColumn": 48,
+                        "endOffset": 2413
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 3969,
+                    "endColumn": 45,
+                    "endOffset": 4010
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 4,
+                        "startOffset": 2472,
+                        "endColumn": 45,
+                        "endOffset": 2513
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 4015,
+                    "endColumn": 44,
+                    "endOffset": 4055
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 1913,
+                        "endColumn": 44,
+                        "endOffset": 1953
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 4060,
+                    "endColumn": 49,
+                    "endOffset": 4105
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 2059,
+                        "endColumn": 49,
+                        "endOffset": 2104
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 4110,
+                    "endColumn": 36,
+                    "endOffset": 4142
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1337,
+                        "endColumn": 36,
+                        "endOffset": 1369
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 4147,
+                    "endColumn": 38,
+                    "endOffset": 4181
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 1755,
+                        "endColumn": 38,
+                        "endOffset": 1789
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 4186,
+                    "endColumn": 36,
+                    "endOffset": 4218
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1375,
+                        "endColumn": 36,
+                        "endOffset": 1407
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 87,
+                    "startColumn": 4,
+                    "startOffset": 4223,
+                    "endColumn": 36,
+                    "endOffset": 4255
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 1413,
+                        "endColumn": 36,
+                        "endOffset": 1445
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 88,
+                    "startColumn": 4,
+                    "startOffset": 4260,
+                    "endColumn": 36,
+                    "endOffset": 4292
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1451,
+                        "endColumn": 36,
+                        "endOffset": 1483
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 89,
+                    "startColumn": 4,
+                    "startOffset": 4297,
+                    "endColumn": 34,
+                    "endOffset": 4327
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1229,
+                        "endColumn": 34,
+                        "endOffset": 1259
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 90,
+                    "startColumn": 4,
+                    "startOffset": 4332,
+                    "endColumn": 36,
+                    "endOffset": 4364
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1489,
+                        "endColumn": 36,
+                        "endOffset": 1521
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 4369,
+                    "endColumn": 36,
+                    "endOffset": 4401
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1527,
+                        "endColumn": 36,
+                        "endOffset": 1559
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 92,
+                    "startColumn": 4,
+                    "startOffset": 4406,
+                    "endColumn": 36,
+                    "endOffset": 4438
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 1565,
+                        "endColumn": 36,
+                        "endOffset": 1597
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 4443,
+                    "endColumn": 36,
+                    "endOffset": 4475
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 1603,
+                        "endColumn": 36,
+                        "endOffset": 1635
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 4480,
+                    "endColumn": 34,
+                    "endOffset": 4510
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1265,
+                        "endColumn": 34,
+                        "endOffset": 1295
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 95,
+                    "startColumn": 4,
+                    "startOffset": 4515,
+                    "endColumn": 36,
+                    "endOffset": 4547
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 1641,
+                        "endColumn": 36,
+                        "endOffset": 1673
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 96,
+                    "startColumn": 4,
+                    "startOffset": 4552,
+                    "endColumn": 36,
+                    "endOffset": 4584
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 1679,
+                        "endColumn": 36,
+                        "endOffset": 1711
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 4589,
+                    "endColumn": 34,
+                    "endOffset": 4619
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1301,
+                        "endColumn": 34,
+                        "endOffset": 1331
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 98,
+                    "startColumn": 4,
+                    "startOffset": 4624,
+                    "endColumn": 36,
+                    "endOffset": 4656
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 1717,
+                        "endColumn": 36,
+                        "endOffset": 1749
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 99,
+                    "startColumn": 4,
+                    "startOffset": 4661,
+                    "endColumn": 48,
+                    "endOffset": 4705
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 64,
+                        "startColumn": 5,
+                        "startOffset": 2864,
+                        "endColumn": 49,
+                        "endOffset": 2908
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 100,
+                    "startColumn": 4,
+                    "startOffset": 4710,
+                    "endColumn": 46,
+                    "endOffset": 4752
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 4,
+                        "startOffset": 2270,
+                        "endColumn": 46,
+                        "endOffset": 2312
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 101,
+                    "startColumn": 4,
+                    "startOffset": 4757,
+                    "endColumn": 43,
+                    "endOffset": 4796
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 597,
+                        "endColumn": 43,
+                        "endOffset": 636
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 102,
+                    "startColumn": 4,
+                    "startOffset": 4801,
+                    "endColumn": 43,
+                    "endOffset": 4840
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 642,
+                        "endColumn": 43,
+                        "endOffset": 681
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 103,
+                    "startColumn": 4,
+                    "startOffset": 4845,
+                    "endColumn": 43,
+                    "endOffset": 4884
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 687,
+                        "endColumn": 43,
+                        "endOffset": 726
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 104,
+                    "startColumn": 4,
+                    "startOffset": 4889,
+                    "endColumn": 43,
+                    "endOffset": 4928
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 732,
+                        "endColumn": 43,
+                        "endOffset": 771
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 105,
+                    "startColumn": 4,
+                    "startOffset": 4933,
+                    "endColumn": 43,
+                    "endOffset": 4972
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 777,
+                        "endColumn": 43,
+                        "endOffset": 816
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 106,
+                    "startColumn": 4,
+                    "startOffset": 4977,
+                    "endColumn": 43,
+                    "endOffset": 5016
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 822,
+                        "endColumn": 43,
+                        "endOffset": 861
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 107,
+                    "startColumn": 4,
+                    "startOffset": 5021,
+                    "endColumn": 43,
+                    "endOffset": 5060
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 867,
+                        "endColumn": 43,
+                        "endOffset": 906
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 108,
+                    "startColumn": 4,
+                    "startOffset": 5065,
+                    "endColumn": 43,
+                    "endOffset": 5104
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 912,
+                        "endColumn": 43,
+                        "endOffset": 951
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 109,
+                    "startColumn": 4,
+                    "startOffset": 5109,
+                    "endColumn": 43,
+                    "endOffset": 5148
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 957,
+                        "endColumn": 43,
+                        "endOffset": 996
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 110,
+                    "startColumn": 4,
+                    "startOffset": 5153,
+                    "endColumn": 43,
+                    "endOffset": 5192
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1002,
+                        "endColumn": 43,
+                        "endOffset": 1041
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 111,
+                    "startColumn": 4,
+                    "startOffset": 5197,
+                    "endColumn": 43,
+                    "endOffset": 5236
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1047,
+                        "endColumn": 43,
+                        "endOffset": 1086
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 112,
+                    "startColumn": 4,
+                    "startOffset": 5241,
+                    "endColumn": 43,
+                    "endOffset": 5280
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1092,
+                        "endColumn": 43,
+                        "endOffset": 1131
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 113,
+                    "startColumn": 4,
+                    "startOffset": 5285,
+                    "endColumn": 43,
+                    "endOffset": 5324
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1137,
+                        "endColumn": 43,
+                        "endOffset": 1176
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 114,
+                    "startColumn": 4,
+                    "startOffset": 5329,
+                    "endColumn": 43,
+                    "endOffset": 5368
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1182,
+                        "endColumn": 43,
+                        "endOffset": 1221
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 115,
+                    "startColumn": 4,
+                    "startOffset": 5373,
+                    "endColumn": 53,
+                    "endOffset": 5422
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 66,
+                        "startColumn": 4,
+                        "startOffset": 2966,
+                        "endColumn": 53,
+                        "endOffset": 3015
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 116,
+                    "startColumn": 4,
+                    "startOffset": 5427,
+                    "endColumn": 50,
+                    "endOffset": 5473
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 65,
+                        "startColumn": 4,
+                        "startOffset": 2914,
+                        "endColumn": 50,
+                        "endOffset": 2960
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 117,
+                    "startColumn": 4,
+                    "startOffset": 5478,
+                    "endColumn": 53,
+                    "endOffset": 5527
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 901,
+                        "endColumn": 53,
+                        "endOffset": 950
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 118,
+                    "startColumn": 4,
+                    "startOffset": 5532,
+                    "endColumn": 37,
+                    "endOffset": 5565
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 397,
+                        "endColumn": 37,
+                        "endOffset": 430
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 119,
+                    "startColumn": 4,
+                    "startOffset": 5570,
+                    "endColumn": 38,
+                    "endOffset": 5604
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 274,
+                        "endColumn": 38,
+                        "endOffset": 308
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 120,
+                    "startColumn": 4,
+                    "startOffset": 5609,
+                    "endColumn": 39,
+                    "endOffset": 5644
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 314,
+                        "endColumn": 39,
+                        "endOffset": 349
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 121,
+                    "startColumn": 4,
+                    "startOffset": 5649,
+                    "endColumn": 41,
+                    "endOffset": 5686
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 231,
+                        "endColumn": 41,
+                        "endOffset": 268
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 122,
+                    "startColumn": 4,
+                    "startOffset": 5691,
+                    "endColumn": 51,
+                    "endOffset": 5738
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 1,
+                        "startOffset": 1616,
+                        "endColumn": 48,
+                        "endOffset": 1663
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 123,
+                    "startColumn": 4,
+                    "startOffset": 5743,
+                    "endColumn": 52,
+                    "endOffset": 5791
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 558,
+                        "endColumn": 52,
+                        "endOffset": 606
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 124,
+                    "startColumn": 4,
+                    "startOffset": 5796,
+                    "endColumn": 35,
+                    "endOffset": 5827
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 118,
+                        "endColumn": 35,
+                        "endOffset": 149
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 125,
+                    "startColumn": 4,
+                    "startOffset": 5832,
+                    "endColumn": 46,
+                    "endOffset": 5874
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 612,
+                        "endColumn": 52,
+                        "endOffset": 660
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 126,
+                    "startColumn": 4,
+                    "startOffset": 5879,
+                    "endColumn": 36,
+                    "endOffset": 5911
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 475,
+                        "endColumn": 36,
+                        "endOffset": 507
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 127,
+                    "startColumn": 4,
+                    "startOffset": 5916,
+                    "endColumn": 36,
+                    "endOffset": 5948
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 193,
+                        "endColumn": 36,
+                        "endOffset": 225
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 128,
+                    "startColumn": 4,
+                    "startOffset": 5953,
+                    "endColumn": 37,
+                    "endOffset": 5986
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 436,
+                        "endColumn": 37,
+                        "endOffset": 469
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 129,
+                    "startColumn": 4,
+                    "startOffset": 5991,
+                    "endColumn": 36,
+                    "endOffset": 6023
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 155,
+                        "endColumn": 36,
+                        "endOffset": 187
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 130,
+                    "startColumn": 4,
+                    "startOffset": 6028,
+                    "endColumn": 46,
+                    "endOffset": 6070
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 715,
+                        "endColumn": 52,
+                        "endOffset": 763
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 131,
+                    "startColumn": 4,
+                    "startOffset": 6075,
+                    "endColumn": 48,
+                    "endOffset": 6119
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 769,
+                        "endColumn": 54,
+                        "endOffset": 819
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 132,
+                    "startColumn": 4,
+                    "startOffset": 6124,
+                    "endColumn": 49,
+                    "endOffset": 6169
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1111,
+                        "endColumn": 55,
+                        "endOffset": 1162
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 133,
+                    "startColumn": 4,
+                    "startOffset": 6174,
+                    "endColumn": 48,
+                    "endOffset": 6218
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 825,
+                        "endColumn": 54,
+                        "endOffset": 875
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 134,
+                    "startColumn": 4,
+                    "startOffset": 6223,
+                    "endColumn": 49,
+                    "endOffset": 6268
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1168,
+                        "endColumn": 55,
+                        "endOffset": 1219
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 135,
+                    "startColumn": 4,
+                    "startOffset": 6273,
+                    "endColumn": 48,
+                    "endOffset": 6317
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 881,
+                        "endColumn": 54,
+                        "endOffset": 931
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 136,
+                    "startColumn": 4,
+                    "startOffset": 6322,
+                    "endColumn": 49,
+                    "endOffset": 6367
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1225,
+                        "endColumn": 55,
+                        "endOffset": 1276
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 137,
+                    "startColumn": 4,
+                    "startOffset": 6372,
+                    "endColumn": 48,
+                    "endOffset": 6416
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 937,
+                        "endColumn": 54,
+                        "endOffset": 987
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 138,
+                    "startColumn": 4,
+                    "startOffset": 6421,
+                    "endColumn": 49,
+                    "endOffset": 6466
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1282,
+                        "endColumn": 55,
+                        "endOffset": 1333
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 139,
+                    "startColumn": 4,
+                    "startOffset": 6471,
+                    "endColumn": 48,
+                    "endOffset": 6515
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 993,
+                        "endColumn": 54,
+                        "endOffset": 1043
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 140,
+                    "startColumn": 4,
+                    "startOffset": 6520,
+                    "endColumn": 49,
+                    "endOffset": 6565
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1339,
+                        "endColumn": 55,
+                        "endOffset": 1390
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 141,
+                    "startColumn": 4,
+                    "startOffset": 6570,
+                    "endColumn": 48,
+                    "endOffset": 6614
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1049,
+                        "endColumn": 54,
+                        "endOffset": 1099
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 142,
+                    "startColumn": 4,
+                    "startOffset": 6619,
+                    "endColumn": 49,
+                    "endOffset": 6664
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1396,
+                        "endColumn": 55,
+                        "endOffset": 1447
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 143,
+                    "startColumn": 4,
+                    "startOffset": 6669,
+                    "endColumn": 31,
+                    "endOffset": 6696
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 1537,
+                        "endColumn": 37,
+                        "endOffset": 1570
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 144,
+                    "startColumn": 4,
+                    "startOffset": 6701,
+                    "endColumn": 32,
+                    "endOffset": 6729
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1453,
+                        "endColumn": 38,
+                        "endOffset": 1487
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 145,
+                    "startColumn": 4,
+                    "startOffset": 6734,
+                    "endColumn": 35,
+                    "endOffset": 6765
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1576,
+                        "endColumn": 41,
+                        "endOffset": 1613
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 146,
+                    "startColumn": 4,
+                    "startOffset": 6770,
+                    "endColumn": 36,
+                    "endOffset": 6802
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1493,
+                        "endColumn": 42,
+                        "endOffset": 1531
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 147,
+                    "startColumn": 4,
+                    "startOffset": 6807,
+                    "endColumn": 40,
+                    "endOffset": 6843
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\sb_ids.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 144,
+                        "endColumn": 41,
+                        "endOffset": 181
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 148,
+                    "startColumn": 4,
+                    "startOffset": 6848,
+                    "endColumn": 43,
+                    "endOffset": 6887
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\sb_ids.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 44,
+                        "endOffset": 96
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 149,
+                    "startColumn": 4,
+                    "startOffset": 6892,
+                    "endColumn": 41,
+                    "endOffset": 6929
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\sb_ids.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 101,
+                        "endColumn": 42,
+                        "endOffset": 139
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 150,
+                    "startColumn": 4,
+                    "startOffset": 6934,
+                    "endColumn": 41,
+                    "endOffset": 6971
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 666,
+                        "endColumn": 47,
+                        "endOffset": 709
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 151,
+                    "startColumn": 4,
+                    "startOffset": 6976,
+                    "endColumn": 40,
+                    "endOffset": 7012
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 355,
+                        "endColumn": 40,
+                        "endOffset": 391
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 152,
+                    "startColumn": 4,
+                    "startOffset": 7017,
+                    "endColumn": 43,
+                    "endOffset": 7056
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 513,
+                        "endColumn": 43,
+                        "endOffset": 552
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 153,
+                    "startColumn": 4,
+                    "startOffset": 7061,
+                    "endColumn": 52,
+                    "endOffset": 7109
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 932,
+                        "endColumn": 52,
+                        "endOffset": 980
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 154,
+                    "startColumn": 4,
+                    "startOffset": 7114,
+                    "endColumn": 63,
+                    "endOffset": 7173
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 448,
+                        "endColumn": 63,
+                        "endOffset": 507
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 155,
+                    "startColumn": 4,
+                    "startOffset": 7178,
+                    "endColumn": 61,
+                    "endOffset": 7235
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 385,
+                        "endColumn": 61,
+                        "endOffset": 442
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 156,
+                    "startColumn": 4,
+                    "startOffset": 7240,
+                    "endColumn": 70,
+                    "endOffset": 7306
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 163,
+                        "endColumn": 70,
+                        "endOffset": 229
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 157,
+                    "startColumn": 4,
+                    "startOffset": 7311,
+                    "endColumn": 59,
+                    "endOffset": 7366
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 102,
+                        "endColumn": 59,
+                        "endOffset": 157
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 158,
+                    "startColumn": 4,
+                    "startOffset": 7371,
+                    "endColumn": 41,
+                    "endOffset": 7408
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 41,
+                        "endOffset": 96
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 159,
+                    "startColumn": 4,
+                    "startOffset": 7413,
+                    "endColumn": 46,
+                    "endOffset": 7455
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 337,
+                        "endColumn": 46,
+                        "endOffset": 379
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 160,
+                    "startColumn": 4,
+                    "startOffset": 7460,
+                    "endColumn": 45,
+                    "endOffset": 7501
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 290,
+                        "endColumn": 45,
+                        "endOffset": 331
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 161,
+                    "startColumn": 4,
+                    "startOffset": 7506,
+                    "endColumn": 48,
+                    "endOffset": 7550
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 610,
+                        "endColumn": 48,
+                        "endOffset": 654
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 162,
+                    "startColumn": 4,
+                    "startOffset": 7555,
+                    "endColumn": 48,
+                    "endOffset": 7599
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 660,
+                        "endColumn": 48,
+                        "endOffset": 704
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 163,
+                    "startColumn": 4,
+                    "startOffset": 7604,
+                    "endColumn": 49,
+                    "endOffset": 7649
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 710,
+                        "endColumn": 49,
+                        "endOffset": 755
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 164,
+                    "startColumn": 4,
+                    "startOffset": 7654,
+                    "endColumn": 46,
+                    "endOffset": 7696
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 513,
+                        "endColumn": 46,
+                        "endOffset": 555
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 165,
+                    "startColumn": 4,
+                    "startOffset": 7701,
+                    "endColumn": 49,
+                    "endOffset": 7746
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 761,
+                        "endColumn": 49,
+                        "endOffset": 806
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 166,
+                    "startColumn": 4,
+                    "startOffset": 7751,
+                    "endColumn": 47,
+                    "endOffset": 7794
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 561,
+                        "endColumn": 47,
+                        "endOffset": 604
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 167,
+                    "startColumn": 4,
+                    "startOffset": 7799,
+                    "endColumn": 53,
+                    "endOffset": 7848
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 235,
+                        "endColumn": 53,
+                        "endOffset": 284
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 168,
+                    "startColumn": 4,
+                    "startOffset": 7853,
+                    "endColumn": 52,
+                    "endOffset": 7901
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 878,
+                        "endColumn": 52,
+                        "endOffset": 926
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 169,
+                    "startColumn": 4,
+                    "startOffset": 7906,
+                    "endColumn": 62,
+                    "endOffset": 7964
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 986,
+                        "endColumn": 62,
+                        "endOffset": 1044
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 170,
+                    "startColumn": 4,
+                    "startOffset": 7969,
+                    "endColumn": 64,
+                    "endOffset": 8029
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 812,
+                        "endColumn": 64,
+                        "endOffset": 872
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 171,
+                    "startColumn": 4,
+                    "startOffset": 8034,
+                    "endColumn": 62,
+                    "endOffset": 8092
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1050,
+                        "endColumn": 62,
+                        "endOffset": 1108
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 172,
+                    "startColumn": 4,
+                    "startOffset": 8097,
+                    "endColumn": 77,
+                    "endOffset": 8170
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1188,
+                        "endColumn": 77,
+                        "endOffset": 1261
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 173,
+                    "startColumn": 4,
+                    "startOffset": 8175,
+                    "endColumn": 72,
+                    "endOffset": 8243
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1114,
+                        "endColumn": 72,
+                        "endOffset": 1182
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 174,
+                    "startColumn": 4,
+                    "startOffset": 8248,
+                    "endLine": 178,
+                    "endColumn": 12,
+                    "endOffset": 8544
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 78,
+                        "startColumn": 4,
+                        "startOffset": 3227,
+                        "endLine": 82,
+                        "endColumn": 12,
+                        "endOffset": 3527
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 179,
+                    "startColumn": 4,
+                    "startOffset": 8549,
+                    "endLine": 187,
+                    "endColumn": 12,
+                    "endOffset": 9040
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 131,
+                        "startColumn": 4,
+                        "startOffset": 6063,
+                        "endLine": 139,
+                        "endColumn": 12,
+                        "endOffset": 6562
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 188,
+                    "startColumn": 4,
+                    "startOffset": 9045,
+                    "endLine": 205,
+                    "endColumn": 12,
+                    "endOffset": 9855
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 647,
+                        "startColumn": 5,
+                        "startOffset": 29286,
+                        "endLine": 664,
+                        "endColumn": 12,
+                        "endOffset": 30113
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 206,
+                    "startColumn": 4,
+                    "startOffset": 9860,
+                    "endLine": 214,
+                    "endColumn": 12,
+                    "endOffset": 10374
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 625,
+                        "startColumn": 4,
+                        "startOffset": 28188,
+                        "endLine": 633,
+                        "endColumn": 12,
+                        "endOffset": 28710
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 215,
+                    "startColumn": 4,
+                    "startOffset": 10379,
+                    "endColumn": 68,
+                    "endOffset": 10443
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 78,
+                        "endColumn": 75,
+                        "endOffset": 149
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 216,
+                    "startColumn": 4,
+                    "startOffset": 10448,
+                    "endLine": 225,
+                    "endColumn": 12,
+                    "endOffset": 11004
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 157,
+                        "endLine": 13,
+                        "endColumn": 12,
+                        "endOffset": 722
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 226,
+                    "startColumn": 4,
+                    "startOffset": 11009,
+                    "endLine": 229,
+                    "endColumn": 12,
+                    "endOffset": 11269
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 667,
+                        "startColumn": 4,
+                        "startOffset": 30155,
+                        "endLine": 670,
+                        "endColumn": 12,
+                        "endOffset": 30418
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 230,
+                    "startColumn": 4,
+                    "startOffset": 11274,
+                    "endLine": 233,
+                    "endColumn": 12,
+                    "endOffset": 11503
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 1710,
+                        "endLine": 43,
+                        "endColumn": 12,
+                        "endOffset": 1942
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 234,
+                    "startColumn": 4,
+                    "startOffset": 11508,
+                    "endLine": 241,
+                    "endColumn": 12,
+                    "endOffset": 11896
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 548,
+                        "startColumn": 4,
+                        "startOffset": 24628,
+                        "endLine": 555,
+                        "endColumn": 12,
+                        "endOffset": 25023
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 242,
+                    "startColumn": 4,
+                    "startOffset": 11901,
+                    "endLine": 245,
+                    "endColumn": 12,
+                    "endOffset": 12096
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 501,
+                        "startColumn": 4,
+                        "startOffset": 22359,
+                        "endLine": 504,
+                        "endColumn": 12,
+                        "endOffset": 22557
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 246,
+                    "startColumn": 4,
+                    "startOffset": 12101,
+                    "endLine": 255,
+                    "endColumn": 12,
+                    "endOffset": 12617
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 520,
+                        "startColumn": 4,
+                        "startOffset": 23245,
+                        "endLine": 529,
+                        "endColumn": 12,
+                        "endOffset": 23770
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 256,
+                    "startColumn": 4,
+                    "startOffset": 12622,
+                    "endLine": 271,
+                    "endColumn": 12,
+                    "endOffset": 13449
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 531,
+                        "startColumn": 4,
+                        "startOffset": 23778,
+                        "endLine": 546,
+                        "endColumn": 12,
+                        "endOffset": 24620
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 272,
+                    "startColumn": 4,
+                    "startOffset": 13454,
+                    "endLine": 289,
+                    "endColumn": 12,
+                    "endOffset": 14390
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 471,
+                        "startColumn": 4,
+                        "startOffset": 20867,
+                        "endLine": 488,
+                        "endColumn": 12,
+                        "endOffset": 21820
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 290,
+                    "startColumn": 4,
+                    "startOffset": 14395,
+                    "endLine": 295,
+                    "endColumn": 12,
+                    "endOffset": 14668
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 570,
+                        "startColumn": 4,
+                        "startOffset": 25555,
+                        "endLine": 575,
+                        "endColumn": 12,
+                        "endOffset": 25833
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 296,
+                    "startColumn": 4,
+                    "startOffset": 14673,
+                    "endLine": 305,
+                    "endColumn": 12,
+                    "endOffset": 15187
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 490,
+                        "startColumn": 4,
+                        "startOffset": 21828,
+                        "endLine": 499,
+                        "endColumn": 12,
+                        "endOffset": 22351
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 306,
+                    "startColumn": 4,
+                    "startOffset": 15192,
+                    "endLine": 310,
+                    "endColumn": 12,
+                    "endOffset": 15415
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 557,
+                        "startColumn": 4,
+                        "startOffset": 25031,
+                        "endLine": 561,
+                        "endColumn": 12,
+                        "endOffset": 25258
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 311,
+                    "startColumn": 4,
+                    "startOffset": 15420,
+                    "endLine": 323,
+                    "endColumn": 12,
+                    "endOffset": 16080
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 506,
+                        "startColumn": 4,
+                        "startOffset": 22565,
+                        "endLine": 518,
+                        "endColumn": 12,
+                        "endOffset": 23237
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 324,
+                    "startColumn": 4,
+                    "startOffset": 16085,
+                    "endLine": 329,
+                    "endColumn": 12,
+                    "endOffset": 16361
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 563,
+                        "startColumn": 4,
+                        "startOffset": 25266,
+                        "endLine": 568,
+                        "endColumn": 12,
+                        "endOffset": 25547
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 330,
+                    "startColumn": 4,
+                    "startOffset": 16366,
+                    "endLine": 337,
+                    "endColumn": 12,
+                    "endOffset": 16765
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 377,
+                        "startColumn": 4,
+                        "startOffset": 16583,
+                        "endLine": 384,
+                        "endColumn": 12,
+                        "endOffset": 16989
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 338,
+                    "startColumn": 4,
+                    "startOffset": 16770,
+                    "endLine": 340,
+                    "endColumn": 12,
+                    "endOffset": 16931
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 585,
+                        "startColumn": 4,
+                        "startOffset": 26225,
+                        "endLine": 587,
+                        "endColumn": 12,
+                        "endOffset": 26388
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 341,
+                    "startColumn": 4,
+                    "startOffset": 16936,
+                    "endLine": 343,
+                    "endColumn": 12,
+                    "endOffset": 17050
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 89,
+                        "startColumn": 4,
+                        "startOffset": 3732,
+                        "endLine": 91,
+                        "endColumn": 12,
+                        "endOffset": 3848
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 344,
+                    "startColumn": 4,
+                    "startOffset": 17055,
+                    "endLine": 348,
+                    "endColumn": 12,
+                    "endOffset": 17302
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 142,
+                        "startColumn": 4,
+                        "startOffset": 6597,
+                        "endLine": 146,
+                        "endColumn": 12,
+                        "endOffset": 6848
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 349,
+                    "startColumn": 4,
+                    "startOffset": 17307,
+                    "endLine": 355,
+                    "endColumn": 12,
+                    "endOffset": 17673
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 577,
+                        "startColumn": 4,
+                        "startOffset": 25841,
+                        "endLine": 583,
+                        "endColumn": 12,
+                        "endOffset": 26213
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 356,
+                    "startColumn": 4,
+                    "startOffset": 17678,
+                    "endLine": 360,
+                    "endColumn": 12,
+                    "endOffset": 17904
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 1950,
+                        "endLine": 49,
+                        "endColumn": 12,
+                        "endOffset": 2180
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 361,
+                    "startColumn": 4,
+                    "startOffset": 17909,
+                    "endLine": 363,
+                    "endColumn": 12,
+                    "endOffset": 18048
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 4,
+                        "startOffset": 2188,
+                        "endLine": 53,
+                        "endColumn": 12,
+                        "endOffset": 2329
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 364,
+                    "startColumn": 4,
+                    "startOffset": 18053,
+                    "endLine": 367,
+                    "endColumn": 12,
+                    "endOffset": 18288
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 4,
+                        "startOffset": 2337,
+                        "endLine": 58,
+                        "endColumn": 12,
+                        "endOffset": 2575
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 368,
+                    "startColumn": 4,
+                    "startOffset": 18293,
+                    "endLine": 371,
+                    "endColumn": 12,
+                    "endOffset": 18457
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 4,
+                        "startOffset": 2583,
+                        "endLine": 63,
+                        "endColumn": 12,
+                        "endOffset": 2750
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 372,
+                    "startColumn": 4,
+                    "startOffset": 18462,
+                    "endLine": 374,
+                    "endColumn": 12,
+                    "endOffset": 18597
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 74,
+                        "startColumn": 4,
+                        "startOffset": 3082,
+                        "endLine": 76,
+                        "endColumn": 12,
+                        "endOffset": 3219
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 375,
+                    "startColumn": 4,
+                    "startOffset": 18602,
+                    "endLine": 378,
+                    "endColumn": 12,
+                    "endOffset": 18772
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 65,
+                        "startColumn": 4,
+                        "startOffset": 2758,
+                        "endLine": 68,
+                        "endColumn": 12,
+                        "endOffset": 2931
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 379,
+                    "startColumn": 4,
+                    "startOffset": 18777,
+                    "endLine": 381,
+                    "endColumn": 12,
+                    "endOffset": 18910
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 70,
+                        "startColumn": 4,
+                        "startOffset": 2939,
+                        "endLine": 72,
+                        "endColumn": 12,
+                        "endOffset": 3074
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 382,
+                    "startColumn": 4,
+                    "startOffset": 18915,
+                    "endLine": 385,
+                    "endColumn": 12,
+                    "endOffset": 19101
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 84,
+                        "startColumn": 4,
+                        "startOffset": 3535,
+                        "endLine": 87,
+                        "endColumn": 12,
+                        "endOffset": 3724
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 386,
+                    "startColumn": 4,
+                    "startOffset": 19106,
+                    "endLine": 388,
+                    "endColumn": 12,
+                    "endOffset": 19236
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 149,
+                        "startColumn": 4,
+                        "startOffset": 6883,
+                        "endLine": 151,
+                        "endColumn": 12,
+                        "endOffset": 7015
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 389,
+                    "startColumn": 4,
+                    "startOffset": 19241,
+                    "endLine": 393,
+                    "endColumn": 12,
+                    "endOffset": 19457
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 219,
+                        "startColumn": 4,
+                        "startOffset": 9842,
+                        "endLine": 223,
+                        "endColumn": 12,
+                        "endOffset": 10062
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 394,
+                    "startColumn": 4,
+                    "startOffset": 19462,
+                    "endLine": 404,
+                    "endColumn": 12,
+                    "endOffset": 19995
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 199,
+                        "startColumn": 4,
+                        "startOffset": 8954,
+                        "endLine": 209,
+                        "endColumn": 12,
+                        "endOffset": 9497
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 405,
+                    "startColumn": 4,
+                    "startOffset": 20000,
+                    "endLine": 415,
+                    "endColumn": 12,
+                    "endOffset": 20547
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 310,
+                        "startColumn": 4,
+                        "startOffset": 13690,
+                        "endLine": 320,
+                        "endColumn": 12,
+                        "endOffset": 14247
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 416,
+                    "startColumn": 4,
+                    "startOffset": 20552,
+                    "endLine": 424,
+                    "endColumn": 12,
+                    "endOffset": 20982
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 272,
+                        "startColumn": 4,
+                        "startOffset": 11997,
+                        "endLine": 280,
+                        "endColumn": 12,
+                        "endOffset": 12435
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 425,
+                    "startColumn": 4,
+                    "startOffset": 20987,
+                    "endLine": 427,
+                    "endColumn": 12,
+                    "endOffset": 21098
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 282,
+                        "startColumn": 4,
+                        "startOffset": 12443,
+                        "endLine": 284,
+                        "endColumn": 12,
+                        "endOffset": 12556
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 428,
+                    "startColumn": 4,
+                    "startOffset": 21103,
+                    "endLine": 432,
+                    "endColumn": 12,
+                    "endOffset": 21310
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 338,
+                        "startColumn": 4,
+                        "startOffset": 14852,
+                        "endLine": 342,
+                        "endColumn": 12,
+                        "endOffset": 15063
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 433,
+                    "startColumn": 4,
+                    "startOffset": 21315,
+                    "endLine": 442,
+                    "endColumn": 12,
+                    "endOffset": 21839
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 239,
+                        "startColumn": 4,
+                        "startOffset": 10595,
+                        "endLine": 248,
+                        "endColumn": 12,
+                        "endOffset": 11128
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 443,
+                    "startColumn": 4,
+                    "startOffset": 21844,
+                    "endLine": 448,
+                    "endColumn": 12,
+                    "endOffset": 22165
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 449,
+                        "startColumn": 4,
+                        "startOffset": 19905,
+                        "endLine": 454,
+                        "endColumn": 12,
+                        "endOffset": 20231
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 449,
+                    "startColumn": 4,
+                    "startOffset": 22170,
+                    "endLine": 456,
+                    "endColumn": 12,
+                    "endOffset": 22586
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 422,
+                        "startColumn": 4,
+                        "startOffset": 18593,
+                        "endLine": 429,
+                        "endColumn": 12,
+                        "endOffset": 19016
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 457,
+                    "startColumn": 4,
+                    "startOffset": 22591,
+                    "endLine": 459,
+                    "endColumn": 12,
+                    "endOffset": 22739
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 418,
+                        "startColumn": 4,
+                        "startOffset": 18435,
+                        "endLine": 420,
+                        "endColumn": 12,
+                        "endOffset": 18585
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 460,
+                    "startColumn": 4,
+                    "startOffset": 22744,
+                    "endLine": 471,
+                    "endColumn": 12,
+                    "endOffset": 23367
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 431,
+                        "startColumn": 4,
+                        "startOffset": 19024,
+                        "endLine": 442,
+                        "endColumn": 12,
+                        "endOffset": 19658
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 472,
+                    "startColumn": 4,
+                    "startOffset": 23372,
+                    "endLine": 475,
+                    "endColumn": 12,
+                    "endOffset": 23600
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 444,
+                        "startColumn": 4,
+                        "startOffset": 19666,
+                        "endLine": 447,
+                        "endColumn": 12,
+                        "endOffset": 19897
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 476,
+                    "startColumn": 4,
+                    "startOffset": 23605,
+                    "endLine": 479,
+                    "endColumn": 12,
+                    "endOffset": 23816
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 413,
+                        "startColumn": 4,
+                        "startOffset": 18213,
+                        "endLine": 416,
+                        "endColumn": 12,
+                        "endOffset": 18427
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 480,
+                    "startColumn": 4,
+                    "startOffset": 23821,
+                    "endLine": 488,
+                    "endColumn": 12,
+                    "endOffset": 24292
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 403,
+                        "startColumn": 4,
+                        "startOffset": 17726,
+                        "endLine": 411,
+                        "endColumn": 12,
+                        "endOffset": 18205
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 489,
+                    "startColumn": 4,
+                    "startOffset": 24297,
+                    "endLine": 503,
+                    "endColumn": 12,
+                    "endOffset": 24978
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 387,
+                        "startColumn": 4,
+                        "startOffset": 17023,
+                        "endLine": 401,
+                        "endColumn": 12,
+                        "endOffset": 17718
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 504,
+                    "startColumn": 4,
+                    "startOffset": 24983,
+                    "endLine": 509,
+                    "endColumn": 12,
+                    "endOffset": 25246
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 192,
+                        "startColumn": 4,
+                        "startOffset": 8678,
+                        "endLine": 197,
+                        "endColumn": 12,
+                        "endOffset": 8946
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 510,
+                    "startColumn": 4,
+                    "startOffset": 25251,
+                    "endLine": 515,
+                    "endColumn": 12,
+                    "endOffset": 25526
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 356,
+                        "startColumn": 4,
+                        "startOffset": 15623,
+                        "endLine": 361,
+                        "endColumn": 12,
+                        "endOffset": 15903
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 516,
+                    "startColumn": 4,
+                    "startOffset": 25531,
+                    "endLine": 518,
+                    "endColumn": 12,
+                    "endOffset": 25647
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 322,
+                        "startColumn": 4,
+                        "startOffset": 14255,
+                        "endLine": 324,
+                        "endColumn": 12,
+                        "endOffset": 14373
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 519,
+                    "startColumn": 4,
+                    "startOffset": 25652,
+                    "endLine": 524,
+                    "endColumn": 12,
+                    "endOffset": 25905
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 232,
+                        "startColumn": 4,
+                        "startOffset": 10329,
+                        "endLine": 237,
+                        "endColumn": 12,
+                        "endOffset": 10587
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 525,
+                    "startColumn": 4,
+                    "startOffset": 25910,
+                    "endLine": 530,
+                    "endColumn": 12,
+                    "endOffset": 26187
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 250,
+                        "startColumn": 4,
+                        "startOffset": 11136,
+                        "endLine": 255,
+                        "endColumn": 12,
+                        "endOffset": 11418
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 531,
+                    "startColumn": 4,
+                    "startOffset": 26192,
+                    "endLine": 538,
+                    "endColumn": 12,
+                    "endOffset": 26618
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 301,
+                        "startColumn": 4,
+                        "startOffset": 13249,
+                        "endLine": 308,
+                        "endColumn": 12,
+                        "endOffset": 13682
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 539,
+                    "startColumn": 4,
+                    "startOffset": 26623,
+                    "endLine": 543,
+                    "endColumn": 12,
+                    "endOffset": 26887
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 286,
+                        "startColumn": 4,
+                        "startOffset": 12564,
+                        "endLine": 290,
+                        "endColumn": 12,
+                        "endOffset": 12832
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 544,
+                    "startColumn": 4,
+                    "startOffset": 26892,
+                    "endLine": 547,
+                    "endColumn": 12,
+                    "endOffset": 27074
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 267,
+                        "startColumn": 4,
+                        "startOffset": 11804,
+                        "endLine": 270,
+                        "endColumn": 12,
+                        "endOffset": 11989
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 548,
+                    "startColumn": 4,
+                    "startOffset": 27079,
+                    "endLine": 550,
+                    "endColumn": 12,
+                    "endOffset": 27209
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 257,
+                        "startColumn": 4,
+                        "startOffset": 11426,
+                        "endLine": 259,
+                        "endColumn": 12,
+                        "endOffset": 11558
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 551,
+                    "startColumn": 4,
+                    "startOffset": 27214,
+                    "endLine": 555,
+                    "endColumn": 12,
+                    "endOffset": 27424
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 326,
+                        "startColumn": 4,
+                        "startOffset": 14381,
+                        "endLine": 330,
+                        "endColumn": 12,
+                        "endOffset": 14595
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 556,
+                    "startColumn": 4,
+                    "startOffset": 27429,
+                    "endLine": 568,
+                    "endColumn": 12,
+                    "endOffset": 28081
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 363,
+                        "startColumn": 4,
+                        "startOffset": 15911,
+                        "endLine": 375,
+                        "endColumn": 12,
+                        "endOffset": 16575
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 569,
+                    "startColumn": 4,
+                    "startOffset": 28086,
+                    "endLine": 579,
+                    "endColumn": 12,
+                    "endOffset": 28620
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 344,
+                        "startColumn": 4,
+                        "startOffset": 15071,
+                        "endLine": 354,
+                        "endColumn": 12,
+                        "endOffset": 15615
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 580,
+                    "startColumn": 4,
+                    "startOffset": 28625,
+                    "endLine": 584,
+                    "endColumn": 12,
+                    "endOffset": 28862
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 332,
+                        "startColumn": 4,
+                        "startOffset": 14603,
+                        "endLine": 336,
+                        "endColumn": 12,
+                        "endOffset": 14844
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 585,
+                    "startColumn": 4,
+                    "startOffset": 28867,
+                    "endLine": 589,
+                    "endColumn": 12,
+                    "endOffset": 29093
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 261,
+                        "startColumn": 4,
+                        "startOffset": 11566,
+                        "endLine": 265,
+                        "endColumn": 12,
+                        "endOffset": 11796
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 590,
+                    "startColumn": 4,
+                    "startOffset": 29098,
+                    "endLine": 595,
+                    "endColumn": 12,
+                    "endOffset": 29382
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 456,
+                        "startColumn": 4,
+                        "startOffset": 20239,
+                        "endLine": 461,
+                        "endColumn": 12,
+                        "endOffset": 20528
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 596,
+                    "startColumn": 4,
+                    "startOffset": 29387,
+                    "endLine": 601,
+                    "endColumn": 12,
+                    "endOffset": 29673
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 463,
+                        "startColumn": 4,
+                        "startOffset": 20536,
+                        "endLine": 468,
+                        "endColumn": 12,
+                        "endOffset": 20827
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 602,
+                    "startColumn": 4,
+                    "startOffset": 29678,
+                    "endLine": 608,
+                    "endColumn": 12,
+                    "endOffset": 30001
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 211,
+                        "startColumn": 4,
+                        "startOffset": 9505,
+                        "endLine": 217,
+                        "endColumn": 12,
+                        "endOffset": 9834
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 609,
+                    "startColumn": 4,
+                    "startOffset": 30006,
+                    "endLine": 614,
+                    "endColumn": 12,
+                    "endOffset": 30252
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 225,
+                        "startColumn": 4,
+                        "startOffset": 10070,
+                        "endLine": 230,
+                        "endColumn": 12,
+                        "endOffset": 10321
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 615,
+                    "startColumn": 4,
+                    "startOffset": 30257,
+                    "endLine": 623,
+                    "endColumn": 12,
+                    "endOffset": 30674
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 173,
+                        "startColumn": 4,
+                        "startOffset": 7859,
+                        "endLine": 181,
+                        "endColumn": 12,
+                        "endOffset": 8284
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 624,
+                    "startColumn": 4,
+                    "startOffset": 30679,
+                    "endLine": 631,
+                    "endColumn": 12,
+                    "endOffset": 31050
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 183,
+                        "startColumn": 4,
+                        "startOffset": 8292,
+                        "endLine": 190,
+                        "endColumn": 12,
+                        "endOffset": 8670
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 632,
+                    "startColumn": 4,
+                    "startOffset": 31055,
+                    "endLine": 639,
+                    "endColumn": 12,
+                    "endOffset": 31449
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 292,
+                        "startColumn": 4,
+                        "startOffset": 12840,
+                        "endLine": 299,
+                        "endColumn": 12,
+                        "endOffset": 13241
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 640,
+                    "startColumn": 4,
+                    "startOffset": 31454,
+                    "endLine": 647,
+                    "endColumn": 12,
+                    "endOffset": 31868
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 163,
+                        "startColumn": 4,
+                        "startOffset": 7402,
+                        "endLine": 170,
+                        "endColumn": 12,
+                        "endOffset": 7823
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 648,
+                    "startColumn": 4,
+                    "startOffset": 31873,
+                    "endLine": 651,
+                    "endColumn": 12,
+                    "endOffset": 32041
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 154,
+                        "startColumn": 4,
+                        "startOffset": 7050,
+                        "endLine": 157,
+                        "endColumn": 12,
+                        "endOffset": 7221
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 652,
+                    "startColumn": 4,
+                    "startOffset": 32046,
+                    "endLine": 654,
+                    "endColumn": 12,
+                    "endOffset": 32181
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 159,
+                        "startColumn": 4,
+                        "startOffset": 7229,
+                        "endLine": 161,
+                        "endColumn": 12,
+                        "endOffset": 7366
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 655,
+                    "startColumn": 4,
+                    "startOffset": 32186,
+                    "endLine": 670,
+                    "endColumn": 12,
+                    "endOffset": 33117
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 114,
+                        "startColumn": 4,
+                        "startOffset": 5083,
+                        "endLine": 129,
+                        "endColumn": 12,
+                        "endOffset": 6029
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 671,
+                    "startColumn": 4,
+                    "startOffset": 33122,
+                    "endLine": 675,
+                    "endColumn": 12,
+                    "endOffset": 33350
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 0,
+                        "startOffset": 724,
+                        "endLine": 18,
+                        "endColumn": 12,
+                        "endOffset": 956
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 676,
+                    "startColumn": 4,
+                    "startOffset": 33355,
+                    "endLine": 686,
+                    "endColumn": 12,
+                    "endOffset": 33980
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 103,
+                        "startColumn": 0,
+                        "startOffset": 4442,
+                        "endLine": 113,
+                        "endColumn": 12,
+                        "endOffset": 5077
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 687,
+                    "startColumn": 4,
+                    "startOffset": 33985,
+                    "endLine": 697,
+                    "endColumn": 12,
+                    "endOffset": 34561
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 92,
+                        "startColumn": 4,
+                        "startOffset": 3854,
+                        "endLine": 102,
+                        "endColumn": 12,
+                        "endOffset": 4440
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 698,
+                    "startColumn": 4,
+                    "startOffset": 34566,
+                    "endLine": 700,
+                    "endColumn": 12,
+                    "endOffset": 34688
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1578,
+                        "endLine": 38,
+                        "endColumn": 12,
+                        "endOffset": 1702
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 701,
+                    "startColumn": 4,
+                    "startOffset": 34693,
+                    "endLine": 703,
+                    "endColumn": 12,
+                    "endOffset": 34826
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1435,
+                        "endLine": 34,
+                        "endColumn": 12,
+                        "endOffset": 1570
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 704,
+                    "startColumn": 4,
+                    "startOffset": 34831,
+                    "endLine": 707,
+                    "endColumn": 12,
+                    "endOffset": 34997
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 962,
+                        "endLine": 22,
+                        "endColumn": 12,
+                        "endOffset": 1131
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 708,
+                    "startColumn": 4,
+                    "startOffset": 35002,
+                    "endLine": 710,
+                    "endColumn": 12,
+                    "endOffset": 35141
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1286,
+                        "endLine": 30,
+                        "endColumn": 12,
+                        "endOffset": 1427
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 711,
+                    "startColumn": 4,
+                    "startOffset": 35146,
+                    "endLine": 713,
+                    "endColumn": 12,
+                    "endOffset": 35283
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1139,
+                        "endLine": 26,
+                        "endColumn": 12,
+                        "endOffset": 1278
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 714,
+                    "startColumn": 4,
+                    "startOffset": 35288,
+                    "endLine": 719,
+                    "endColumn": 12,
+                    "endOffset": 35571
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 589,
+                        "startColumn": 4,
+                        "startOffset": 26400,
+                        "endLine": 594,
+                        "endColumn": 12,
+                        "endOffset": 26688
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 720,
+                    "startColumn": 4,
+                    "startOffset": 35576,
+                    "endLine": 728,
+                    "endColumn": 12,
+                    "endOffset": 36074
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 615,
+                        "startColumn": 4,
+                        "startOffset": 27638,
+                        "endLine": 623,
+                        "endColumn": 12,
+                        "endOffset": 28144
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 729,
+                    "startColumn": 4,
+                    "startOffset": 36079,
+                    "endLine": 736,
+                    "endColumn": 12,
+                    "endOffset": 36461
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 607,
+                        "startColumn": 4,
+                        "startOffset": 27243,
+                        "endLine": 614,
+                        "endColumn": 12,
+                        "endOffset": 27632
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 737,
+                    "startColumn": 4,
+                    "startOffset": 36466,
+                    "endLine": 747,
+                    "endColumn": 12,
+                    "endOffset": 37006
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 635,
+                        "startColumn": 5,
+                        "startOffset": 28723,
+                        "endLine": 645,
+                        "endColumn": 12,
+                        "endOffset": 29273
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 748,
+                    "startColumn": 4,
+                    "startOffset": 37011,
+                    "endLine": 757,
+                    "endColumn": 12,
+                    "endOffset": 37533
+                },
+                "from": {
+                    "file": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 596,
+                        "startColumn": 4,
+                        "startOffset": 26700,
+                        "endLine": 605,
+                        "endColumn": 12,
+                        "endOffset": 27231
+                    }
+                }
+            }
+        ]
+    }
+]

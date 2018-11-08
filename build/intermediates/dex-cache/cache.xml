@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="F:\test\CPUCardOper1\app\libs\alipaySdk-20170710.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="9a547f591662cb9d20cdd38b4d1304e820bc03d4">
+        <dex dex="F:\test\CPUCardOper1\app\build\intermediates\pre-dexed\debug\alipaySdk-20170710_baf65f46361a769d4c419989256e4c6af988381c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\test\CPUCardOper1\app\libs\json-lib-2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="bc148cd9a18347056f79c8614e606b824bf735f1">
+        <dex dex="F:\test\CPUCardOper1\app\build\intermediates\pre-dexed\debug\json-lib-2.1_2b25b32a7f7e95ce6aa6b07b76f5c57521908dbb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\test\CPUCardOper1\app\libs\libammsdk.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="db6144f812752e2f62b8811c8b9d5e4346fff151">
+        <dex dex="F:\test\CPUCardOper1\app\build\intermediates\pre-dexed\debug\libammsdk_dc5a7158a417f12a5b858040b707dec7ee256d81.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\kaifa\android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="F:\test\CPUCardOper1\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_892cb7ea2f5da337e563786f2d981f33e335bfc2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\test\CPUCardOper1\app\libs\nohttp1.0.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="45f94b67af708c59546ab42a504b68485911d8a8">
+        <dex dex="F:\test\CPUCardOper1\app\build\intermediates\pre-dexed\debug\nohttp1.0.5_ec025dcf1033296fdb865341ddc6db9e4269e949.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\kaifa\android\android\gradle\m2repository\com\google\code\gson\gson\2.2.4\gson-2.2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="F:\test\CPUCardOper1\app\build\intermediates\pre-dexed\debug\gson-2.2.4_00996d7788b7ecbd327d56c823ddfdd28aca8591.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\test\CPUCardOper1\app\libs\okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="F:\test\CPUCardOper1\app\build\intermediates\pre-dexed\debug\okhttp-3.4.1_574848dff8e66785ac2f1f1efb1e921875401d3e.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "F:\\test\\CPUCardOper1\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\icon_recharge_on.png",
+        "source": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\drawable-mdpi\\icon_recharge_on.png"
+    },
+    {
+        "merged": "F:\\test\\CPUCardOper1\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\icon_infor_on.png",
+        "source": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\drawable-mdpi\\icon_infor_on.png"
+    },
+    {
+        "merged": "F:\\test\\CPUCardOper1\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\icon_money_off.png",
+        "source": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\drawable-mdpi\\icon_money_off.png"
+    },
+    {
+        "merged": "F:\\test\\CPUCardOper1\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\icon_money_on.png",
+        "source": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\drawable-mdpi\\icon_money_on.png"
+    },
+    {
+        "merged": "F:\\test\\CPUCardOper1\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\icon_recharge_off.png",
+        "source": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\drawable-mdpi\\icon_recharge_off.png"
+    },
+    {
+        "merged": "F:\\test\\CPUCardOper1\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\test\\CPUCardOper1\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\icon_infor_off.png",
+        "source": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\drawable-mdpi\\icon_infor_off.png"
+    },
+    {
+        "merged": "F:\\test\\CPUCardOper1\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\icon_ment_on.png",
+        "source": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\drawable-mdpi\\icon_ment_on.png"
+    },
+    {
+        "merged": "F:\\test\\CPUCardOper1\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\icon_recharge.png",
+        "source": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\drawable-mdpi\\icon_recharge.png"
+    },
+    {
+        "merged": "F:\\test\\CPUCardOper1\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\icon_ment_off.png",
+        "source": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\drawable-mdpi\\icon_ment_off.png"
+    }
+]

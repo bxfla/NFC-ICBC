@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:background="#00BFFF"
+        android:padding="10dp" >
+
+        <RelativeLayout
+                android:id="@+id/alljob_black2"
+                android:layout_width="100dp"
+                android:layout_height="50dp"
+                android:layout_alignParentLeft="true"
+                android:layout_marginLeft="5dp" >
+
+                <ImageView
+                    android:id="@+id/newdema_location"
+                    android:layout_width="wrap_content"
+                    android:layout_height="50dp"
+                    android:layout_centerVertical="true"
+                    android:src="@drawable/fujin_03" />
+            </RelativeLayout>
+        
+        
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:layout_gravity="center_horizontal"
+            android:text="公交充值"
+            android:textColor="@color/white"
+            android:textSize="25sp"
+            />
+    </RelativeLayout>
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="1dip"
+        android:background="@color/title_seprater" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="15dp"
+        android:text="@string/activity_card_charge_item_tv"
+        android:textColor="@color/font_light_black"
+        android:textSize="@dimen/activity_card_charge_info" />
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:orientation="horizontal" >
+        <TextView
+            android:id="@+id/lblCardNo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="10dp"
+            android:textSize="20sp" 
+            android:text="@string/charge_cardno" />
+        <TextView
+            android:id="@+id/textCardNo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="left"
+            android:layout_marginLeft="10dp"
+            android:textSize="20sp" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:orientation="horizontal" >
+        <TextView
+            android:id="@+id/lblBalance"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="10dp"
+            android:textSize="20sp" 
+            android:text="@string/charge_balance" />
+        <TextView
+            android:id="@+id/textBalance"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:gravity="left"
+            android:textSize="20sp" />
+    </LinearLayout>
+	<!-- 选择充值金额 -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="15dp"
+        android:text="@string/activity_card_charge_item2_tv"
+        android:textColor="@color/font_light_black"
+        android:textSize="@dimen/activity_card_charge_info" />
+
+    <com.sdhy.cpucardoper.view.FlowRadioGroup
+        android:id="@id/rg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="5dp"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <RadioButton
+                android:id="@id/iv_charge_tv_money1"
+                style="@style/rb_style"
+                android:text="@string/charge_money_30" />
+
+            <TextView
+                android:layout_width="@dimen/activity_card_charge_tv_margin"
+                android:layout_height="wrap_content" />
+
+            <RadioButton
+                android:id="@id/iv_charge_tv_money2"
+                style="@style/rb_style"
+                android:text="@string/charge_money_50" />
+
+            <TextView
+                android:layout_width="@dimen/activity_card_charge_tv_margin"
+                android:layout_height="wrap_content" />
+
+            <RadioButton
+                android:id="@id/iv_charge_tv_money3"
+                style="@style/rb_style"
+                android:text="@string/charge_money_100" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/activity_card_charge_tv_margin"
+            android:orientation="horizontal" >
+
+            <RadioButton
+                android:id="@id/iv_charge_tv_money4"
+                style="@style/rb_style"
+                android:text="@string/charge_money_150" />
+
+            <TextView
+                android:layout_width="@dimen/activity_card_charge_tv_margin"
+                android:layout_height="wrap_content" />
+
+            <RadioButton
+                android:id="@id/iv_charge_tv_money5"
+                style="@style/rb_style"
+                android:text="@string/charge_money_200" />
+
+            <TextView
+                android:layout_width="@dimen/activity_card_charge_tv_margin"
+                android:layout_height="wrap_content" />
+
+            <RadioButton
+                android:id="@id/iv_charge_tv_money6"
+                style="@style/rb_style"
+                android:text="@string/charge_money_300" />
+        </LinearLayout>
+    </com.sdhy.cpucardoper.view.FlowRadioGroup>
+
+ <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="30dp"
+        android:text="1. 目前支持中国建设银行支付\n2. 仅适用于菏泽交通一卡通网上充值补登\n3. 充值完成后请进行充值补登操作"
+        android:textColor="@color/font_light_black"
+        android:textSize="@dimen/activity_card_charge_info" /> 
+
+    <View
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1" />
+
+    <Button
+        android:id="@id/btn_login"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:background="#00BFFF"
+        android:padding="@dimen/dialog_btn_padding"
+        android:text="@string/dialog_register2_btn"
+        android:textColor="@color/white"
+        android:textSize="25sp"/>
+
+</LinearLayout>

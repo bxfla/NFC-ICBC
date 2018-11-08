@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "F:\\test\\CPUCardOper1\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\test\\CPUCardOper1\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\login_pass.png",
+        "source": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\drawable-xxhdpi\\login_pass.png"
+    },
+    {
+        "merged": "F:\\test\\CPUCardOper1\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\login_sign.png",
+        "source": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\drawable-xxhdpi\\login_sign.png"
+    },
+    {
+        "merged": "F:\\test\\CPUCardOper1\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\login_edit_pressed.png",
+        "source": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\drawable-xxhdpi\\login_edit_pressed.png"
+    },
+    {
+        "merged": "F:\\test\\CPUCardOper1\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\login_edit_normal.png",
+        "source": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\drawable-xxhdpi\\login_edit_normal.png"
+    },
+    {
+        "merged": "F:\\test\\CPUCardOper1\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\login_back.png",
+        "source": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\drawable-xxhdpi\\login_back.png"
+    },
+    {
+        "merged": "F:\\test\\CPUCardOper1\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\login_mobil.png",
+        "source": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\drawable-xxhdpi\\login_mobil.png"
+    },
+    {
+        "merged": "F:\\test\\CPUCardOper1\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\login_log.png",
+        "source": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\drawable-xxhdpi\\login_log.png"
+    },
+    {
+        "merged": "F:\\test\\CPUCardOper1\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\login_fen_big.png",
+        "source": "F:\\test\\CPUCardOper1\\app\\src\\main\\res\\drawable-xxhdpi\\login_fen_big.png"
+    }
+]

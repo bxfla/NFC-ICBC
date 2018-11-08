@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main$Generated" generated="true"><source path="F:\test\CPUCardOper1\app\src\main\res"/><source path="F:\test\CPUCardOper1\app\build\generated\res\rs\debug"/><source path="F:\test\CPUCardOper1\app\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug$Generated" generated="true"><source path="F:\test\CPUCardOper1\app\src\debug\res"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="F:\test\CPUCardOper1\app\src\main\res"><file name="anim_dialog_bottom_in" path="F:\test\CPUCardOper1\app\src\main\res\anim\anim_dialog_bottom_in.xml" qualifiers="" type="anim"/><file name="anim_dialog_bottom_out" path="F:\test\CPUCardOper1\app\src\main\res\anim\anim_dialog_bottom_out.xml" qualifiers="" type="anim"/><file name="fade_in" path="F:\test\CPUCardOper1\app\src\main\res\anim\fade_in.xml" qualifiers="" type="anim"/><file name="push_bottom_in" path="F:\test\CPUCardOper1\app\src\main\res\anim\push_bottom_in.xml" qualifiers="" type="anim"/><file name="push_up_in" path="F:\test\CPUCardOper1\app\src\main\res\anim\push_up_in.xml" qualifiers="" type="anim"/><file name="main_tab_color_bg" path="F:\test\CPUCardOper1\app\src\main\res\color\main_tab_color_bg.xml" qualifiers="" type="color"/><file name="mm_actbtn_text" path="F:\test\CPUCardOper1\app\src\main\res\color\mm_actbtn_text.xml" qualifiers="" type="color"/><file name="mm_btn_text" path="F:\test\CPUCardOper1\app\src\main\res\color\mm_btn_text.xml" qualifiers="" type="color"/><file name="mm_choice_text_color" path="F:\test\CPUCardOper1\app\src\main\res\color\mm_choice_text_color.xml" qualifiers="" type="color"/><file name="mm_hyper_text" path="F:\test\CPUCardOper1\app\src\main\res\color\mm_hyper_text.xml" qualifiers="" type="color"/><file name="mm_list_textcolor_one" path="F:\test\CPUCardOper1\app\src\main\res\color\mm_list_textcolor_one.xml" qualifiers="" type="color"/><file name="mm_list_textcolor_time" path="F:\test\CPUCardOper1\app\src\main\res\color\mm_list_textcolor_time.xml" qualifiers="" type="color"/><file name="mm_list_textcolor_two" path="F:\test\CPUCardOper1\app\src\main\res\color\mm_list_textcolor_two.xml" qualifiers="" type="color"/><file name="mm_pref_summary" path="F:\test\CPUCardOper1\app\src\main\res\color\mm_pref_summary.xml" qualifiers="" type="color"/><file name="mm_pref_title" path="F:\test\CPUCardOper1\app\src\main\res\color\mm_pref_title.xml" qualifiers="" type="color"/><file name="mm_style_one_btn_text" path="F:\test\CPUCardOper1\app\src\main\res\color\mm_style_one_btn_text.xml" qualifiers="" type="color"/><file name="mm_style_two_btn_text" path="F:\test\CPUCardOper1\app\src\main\res\color\mm_style_two_btn_text.xml" qualifiers="" type="color"/><file name="mm_title_btn_text" path="F:\test\CPUCardOper1\app\src\main\res\color\mm_title_btn_text.xml" qualifiers="" type="color"/><file name="sb_button_text_color_green" path="F:\test\CPUCardOper1\app\src\main\res\color\sb_button_text_color_green.xml" qualifiers="" type="color"/><file name="sb_button_text_color_red" path="F:\test\CPUCardOper1\app\src\main\res\color\sb_button_text_color_red.xml" qualifiers="" type="color"/><file name="sb_button_text_color_yellow" path="F:\test\CPUCardOper1\app\src\main\res\color\sb_button_text_color_yellow.xml" qualifiers="" type="color"/><file name="sb_default_button_text_color" path="F:\test\CPUCardOper1\app\src\main\res\color\sb_default_button_text_color.xml" qualifiers="" type="color"/><file name="alertdialog_left_selector" path="F:\test\CPUCardOper1\app\src\main\res\drawable\alertdialog_left_selector.xml" qualifiers="" type="drawable"/><file name="alertdialog_right_selector" path="F:\test\CPUCardOper1\app\src\main\res\drawable\alertdialog_right_selector.xml" qualifiers="" type="drawable"/><file name="alertdialog_single_selector" path="F:\test\CPUCardOper1\app\src\main\res\drawable\alertdialog_single_selector.xml" qualifiers="" type="drawable"/><file name="btn_green" path="F:\test\CPUCardOper1\app\src\main\res\drawable\btn_green.xml" qualifiers="" type="drawable"/><file name="btn_green_normal" path="F:\test\CPUCardOper1\app\src\main\res\drawable\btn_green_normal.9.png" qualifiers="" type="drawable"/><file name="btn_green_press" path="F:\test\CPUCardOper1\app\src\main\res\drawable\btn_green_press.9.png" qualifiers="" type="drawable"/><file name="btn_style_alert_dialog_button" path="F:\test\CPUCardOper1\app\src\main\res\drawable\btn_style_alert_dialog_button.xml" qualifiers="" type="drawable"/><file name="btn_style_alert_dialog_cancel" path="F:\test\CPUCardOper1\app\src\main\res\drawable\btn_style_alert_dialog_cancel.xml" qualifiers="" type="drawable"/><file name="btn_style_alert_dialog_special" path="F:\test\CPUCardOper1\app\src\main\res\drawable\btn_style_alert_dialog_special.xml" qualifiers="" type="drawable"/><file name="btn_style_one" path="F:\test\CPUCardOper1\app\src\main\res\drawable\btn_style_one.xml" qualifiers="" type="drawable"/><file name="button" path="F:\test\CPUCardOper1\app\src\main\res\drawable\button.xml" qualifiers="" type="drawable"/><file name="dialog_back" path="F:\test\CPUCardOper1\app\src\main\res\drawable\dialog_back.xml" qualifiers="" type="drawable"/><file name="dialog_back_normal" path="F:\test\CPUCardOper1\app\src\main\res\drawable\dialog_back_normal.png" qualifiers="" type="drawable"/><file name="dialog_back_press" path="F:\test\CPUCardOper1\app\src\main\res\drawable\dialog_back_press.png" qualifiers="" type="drawable"/><file name="edit_bag" path="F:\test\CPUCardOper1\app\src\main\res\drawable\edit_bag.xml" qualifiers="" type="drawable"/><file name="fail_32" path="F:\test\CPUCardOper1\app\src\main\res\drawable\fail_32.png" qualifiers="" type="drawable"/><file name="list_selector_background" path="F:\test\CPUCardOper1\app\src\main\res\drawable\list_selector_background.xml" qualifiers="" type="drawable"/><file name="mm_actbtn_text" path="F:\test\CPUCardOper1\app\src\main\res\drawable\mm_actbtn_text.xml" qualifiers="" type="drawable"/><file name="mm_btn_text" path="F:\test\CPUCardOper1\app\src\main\res\drawable\mm_btn_text.xml" qualifiers="" type="drawable"/><file name="mm_checkbox_btn" path="F:\test\CPUCardOper1\app\src\main\res\drawable\mm_checkbox_btn.xml" qualifiers="" type="drawable"/><file name="mm_checkbox_mini" path="F:\test\CPUCardOper1\app\src\main\res\drawable\mm_checkbox_mini.xml" qualifiers="" type="drawable"/><file name="mm_choice_text_color" path="F:\test\CPUCardOper1\app\src\main\res\drawable\mm_choice_text_color.xml" qualifiers="" type="drawable"/><file name="mm_edit" path="F:\test\CPUCardOper1\app\src\main\res\drawable\mm_edit.xml" qualifiers="" type="drawable"/><file name="mm_hyper_text" path="F:\test\CPUCardOper1\app\src\main\res\drawable\mm_hyper_text.xml" qualifiers="" type="drawable"/><file name="mm_list_textcolor_one" path="F:\test\CPUCardOper1\app\src\main\res\drawable\mm_list_textcolor_one.xml" qualifiers="" type="drawable"/><file name="mm_list_textcolor_time" path="F:\test\CPUCardOper1\app\src\main\res\drawable\mm_list_textcolor_time.xml" qualifiers="" type="drawable"/><file name="mm_list_textcolor_two" path="F:\test\CPUCardOper1\app\src\main\res\drawable\mm_list_textcolor_two.xml" qualifiers="" type="drawable"/><file name="mm_pref_summary" path="F:\test\CPUCardOper1\app\src\main\res\drawable\mm_pref_summary.xml" qualifiers="" type="drawable"/><file name="mm_pref_title" path="F:\test\CPUCardOper1\app\src\main\res\drawable\mm_pref_title.xml" qualifiers="" type="drawable"/><file name="mm_style_one_btn_text" path="F:\test\CPUCardOper1\app\src\main\res\drawable\mm_style_one_btn_text.xml" qualifiers="" type="drawable"/><file name="mm_style_two_btn_text" path="F:\test\CPUCardOper1\app\src\main\res\drawable\mm_style_two_btn_text.xml" qualifiers="" type="drawable"/><file name="mm_submenu" path="F:\test\CPUCardOper1\app\src\main\res\drawable\mm_submenu.xml" qualifiers="" type="drawable"/><file name="mm_title_btn_back" path="F:\test\CPUCardOper1\app\src\main\res\drawable\mm_title_btn_back.xml" qualifiers="" type="drawable"/><file name="mm_title_btn_right" path="F:\test\CPUCardOper1\app\src\main\res\drawable\mm_title_btn_right.xml" qualifiers="" type="drawable"/><file name="mm_title_btn_text" path="F:\test\CPUCardOper1\app\src\main\res\drawable\mm_title_btn_text.xml" qualifiers="" type="drawable"/><file name="preference_first_item" path="F:\test\CPUCardOper1\app\src\main\res\drawable\preference_first_item.xml" qualifiers="" type="drawable"/><file name="preference_item" path="F:\test\CPUCardOper1\app\src\main\res\drawable\preference_item.xml" qualifiers="" type="drawable"/><file name="preference_last_item" path="F:\test\CPUCardOper1\app\src\main\res\drawable\preference_last_item.xml" qualifiers="" type="drawable"/><file name="preference_one_item" path="F:\test\CPUCardOper1\app\src\main\res\drawable\preference_one_item.xml" qualifiers="" type="drawable"/><file name="rb_font_selector" path="F:\test\CPUCardOper1\app\src\main\res\drawable\rb_font_selector.xml" qualifiers="" type="drawable"/><file name="rb_selecter" path="F:\test\CPUCardOper1\app\src\main\res\drawable\rb_selecter.xml" qualifiers="" type="drawable"/><file name="succ_32" path="F:\test\CPUCardOper1\app\src\main\res\drawable\succ_32.png" qualifiers="" type="drawable"/><file name="tab_01_bg" path="F:\test\CPUCardOper1\app\src\main\res\drawable\tab_01_bg.xml" qualifiers="" type="drawable"/><file name="tab_02_bg" path="F:\test\CPUCardOper1\app\src\main\res\drawable\tab_02_bg.xml" qualifiers="" type="drawable"/><file name="tab_03_bg" path="F:\test\CPUCardOper1\app\src\main\res\drawable\tab_03_bg.xml" qualifiers="" type="drawable"/><file name="tab_04_bg" path="F:\test\CPUCardOper1\app\src\main\res\drawable\tab_04_bg.xml" qualifiers="" type="drawable"/><file name="aa" path="F:\test\CPUCardOper1\app\src\main\res\drawable-hdpi\aa.png" qualifiers="hdpi-v4" type="drawable"/><file name="alert_bg" path="F:\test\CPUCardOper1\app\src\main\res\drawable-hdpi\alert_bg.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="alert_btn_left_pressed" path="F:\test\CPUCardOper1\app\src\main\res\drawable-hdpi\alert_btn_left_pressed.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="alert_btn_right_pressed" path="F:\test\CPUCardOper1\app\src\main\res\drawable-hdpi\alert_btn_right_pressed.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="alert_btn_single_pressed" path="F:\test\CPUCardOper1\app\src\main\res\drawable-hdpi\alert_btn_single_pressed.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="bb" path="F:\test\CPUCardOper1\app\src\main\res\drawable-hdpi\bb.png" qualifiers="hdpi-v4" type="drawable"/><file name="bkg_img_default" path="F:\test\CPUCardOper1\app\src\main\res\drawable-hdpi\bkg_img_default.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="btn_check_off_disable" path="F:\test\CPUCardOper1\app\src\main\res\drawable-hdpi\btn_check_off_disable.png" qualifiers="hdpi-v4" type="drawable"/><file name="btn_check_off_normal" path="F:\test\CPUCardOper1\app\src\main\res\drawable-hdpi\btn_check_off_normal.png" qualifiers="hdpi-v4" type="drawable"/><file name="btn_check_on_disable" path="F:\test\CPUCardOper1\app\src\main\res\drawable-hdpi\btn_check_on_disable.png" qualifiers="hdpi-v4" type="drawable"/><file name="btn_check_on_normal" path="F:\test\CPUCardOper1\app\src\main\res\drawable-hdpi\btn_check_on_normal.png" qualifiers="hdpi-v4" type="drawable"/><file name="btn_style_alert_dialog_background" path="F:\test\CPUCardOper1\app\src\main\res\drawable-hdpi\btn_style_alert_dialog_background.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="btn_style_alert_dialog_button_normal" path="F:\test\CPUCardOper1\app\src\main\res\drawable-hdpi\btn_style_alert_dialog_button_normal.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="btn_style_alert_dialog_button_pressed" path="F:\test\CPUCardOper1\app\src\main\res\drawable-hdpi\btn_style_alert_dialog_button_pressed.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="btn_style_alert_dialog_cancel_normal" path="F:\test\CPUCardOper1\app\src\main\res\drawable-hdpi\btn_style_alert_dialog_cancel_normal.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="btn_style_alert_dialog_special_normal" path="F:\test\CPUCardOper1\app\src\main\res\drawable-hdpi\btn_style_alert_dialog_special_normal.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="btn_style_alert_dialog_special_pressed" path="F:\test\CPUCardOper1\app\src\main\res\drawable-hdpi\btn_style_alert_dialog_special_pressed.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="btn_style_one_disabled" path="F:\test\CPUCardOper1\app\src\main\res\drawable-hdpi\btn_style_one_disabled.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="btn_style_one_focused" path="F:\test\CPUCardOper1\app\src\main\res\drawable-hdpi\btn_style_one_focused.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="btn_style_one_normal" path="F:\test\CPUCardOper1\app\src\main\res\drawable-hdpi\btn_style_one_normal.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="btn_style_one_pressed" path="F:\test\CPUCardOper1\app\src\main\res\drawable-hdpi\btn_style_one_pressed.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="card" path="F:\test\CPUCardOper1\app\src\main\res\drawable-hdpi\card.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="cc" path="F:\test\CPUCardOper1\app\src\main\res\drawable-hdpi\cc.png" qualifiers="hdpi-v4" type="drawable"/><file name="fujin_03" path="F:\test\CPUCardOper1\app\src\main\res\drawable-hdpi\fujin_03.png" qualifiers="hdpi-v4" type="drawable"/><file name="home_bus_iccard" path="F:\test\CPUCardOper1\app\src\main\res\drawable-hdpi\home_bus_iccard.png" qualifiers="hdpi-v4" type="drawable"/><file name="home_picture1" path="F:\test\CPUCardOper1\app\src\main\res\drawable-hdpi\home_picture1.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_dialog_alert" path="F:\test\CPUCardOper1\app\src\main\res\drawable-hdpi\ic_dialog_alert.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_dialog_long_click" path="F:\test\CPUCardOper1\app\src\main\res\drawable-hdpi\ic_dialog_long_click.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="F:\test\CPUCardOper1\app\src\main\res\drawable-hdpi\ic_launcher.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_preference_first_normal" path="F:\test\CPUCardOper1\app\src\main\res\drawable-hdpi\ic_preference_first_normal.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_preference_first_pressed" path="F:\test\CPUCardOper1\app\src\main\res\drawable-hdpi\ic_preference_first_pressed.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_preference_last_normal" path="F:\test\CPUCardOper1\app\src\main\res\drawable-hdpi\ic_preference_last_normal.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_preference_last_pressed" path="F:\test\CPUCardOper1\app\src\main\res\drawable-hdpi\ic_preference_last_pressed.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_preference_normal" path="F:\test\CPUCardOper1\app\src\main\res\drawable-hdpi\ic_preference_normal.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_preference_one_normal" path="F:\test\CPUCardOper1\app\src\main\res\drawable-hdpi\ic_preference_one_normal.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_preference_one_pressed" path="F:\test\CPUCardOper1\app\src\main\res\drawable-hdpi\ic_preference_one_pressed.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_preference_pressed" path="F:\test\CPUCardOper1\app\src\main\res\drawable-hdpi\ic_preference_pressed.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_preference_single_normal" path="F:\test\CPUCardOper1\app\src\main\res\drawable-hdpi\ic_preference_single_normal.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_preference_single_pressed" path="F:\test\CPUCardOper1\app\src\main\res\drawable-hdpi\ic_preference_single_pressed.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_preference_top_normal" path="F:\test\CPUCardOper1\app\src\main\res\drawable-hdpi\ic_preference_top_normal.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_preference_top_pressed" path="F:\test\CPUCardOper1\app\src\main\res\drawable-hdpi\ic_preference_top_pressed.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="jianshe" path="F:\test\CPUCardOper1\app\src\main\res\drawable-hdpi\jianshe.png" qualifiers="hdpi-v4" type="drawable"/><file name="kongzhongchongzhi" path="F:\test\CPUCardOper1\app\src\main\res\drawable-hdpi\kongzhongchongzhi.png" qualifiers="hdpi-v4" type="drawable"/><file name="mm_checkbox_mini_checked" path="F:\test\CPUCardOper1\app\src\main\res\drawable-hdpi\mm_checkbox_mini_checked.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="mm_checkbox_mini_normal" path="F:\test\CPUCardOper1\app\src\main\res\drawable-hdpi\mm_checkbox_mini_normal.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="mm_edit_focused" path="F:\test\CPUCardOper1\app\src\main\res\drawable-hdpi\mm_edit_focused.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="mm_edit_normal" path="F:\test\CPUCardOper1\app\src\main\res\drawable-hdpi\mm_edit_normal.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="mm_listitem_disable" path="F:\test\CPUCardOper1\app\src\main\res\drawable-hdpi\mm_listitem_disable.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="mm_listitem_normal" path="F:\test\CPUCardOper1\app\src\main\res\drawable-hdpi\mm_listitem_normal.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="mm_listitem_pressed" path="F:\test\CPUCardOper1\app\src\main\res\drawable-hdpi\mm_listitem_pressed.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="mm_submenu_normal" path="F:\test\CPUCardOper1\app\src\main\res\drawable-hdpi\mm_submenu_normal.png" qualifiers="hdpi-v4" type="drawable"/><file name="mm_submenu_pressed" path="F:\test\CPUCardOper1\app\src\main\res\drawable-hdpi\mm_submenu_pressed.png" qualifiers="hdpi-v4" type="drawable"/><file name="mm_title_act_btn_disable" path="F:\test\CPUCardOper1\app\src\main\res\drawable-hdpi\mm_title_act_btn_disable.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="mm_title_act_btn_focused" path="F:\test\CPUCardOper1\app\src\main\res\drawable-hdpi\mm_title_act_btn_focused.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="mm_title_act_btn_normal" path="F:\test\CPUCardOper1\app\src\main\res\drawable-hdpi\mm_title_act_btn_normal.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="mm_title_act_btn_pressed" path="F:\test\CPUCardOper1\app\src\main\res\drawable-hdpi\mm_title_act_btn_pressed.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="mm_title_back_focused" path="F:\test\CPUCardOper1\app\src\main\res\drawable-hdpi\mm_title_back_focused.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="mm_title_back_normal" path="F:\test\CPUCardOper1\app\src\main\res\drawable-hdpi\mm_title_back_normal.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="mm_title_back_pressed" path="F:\test\CPUCardOper1\app\src\main\res\drawable-hdpi\mm_title_back_pressed.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="mm_title_bg" path="F:\test\CPUCardOper1\app\src\main\res\drawable-hdpi\mm_title_bg.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="mm_title_btn_focused" path="F:\test\CPUCardOper1\app\src\main\res\drawable-hdpi\mm_title_btn_focused.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="mm_title_btn_normal" path="F:\test\CPUCardOper1\app\src\main\res\drawable-hdpi\mm_title_btn_normal.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="mm_title_btn_pressed" path="F:\test\CPUCardOper1\app\src\main\res\drawable-hdpi\mm_title_btn_pressed.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="mm_trans" path="F:\test\CPUCardOper1\app\src\main\res\drawable-hdpi\mm_trans.png" qualifiers="hdpi-v4" type="drawable"/><file name="selector_green_wechat_circle" path="F:\test\CPUCardOper1\app\src\main\res\drawable-hdpi\selector_green_wechat_circle.xml" qualifiers="hdpi-v4" type="drawable"/><file name="selector_transprent_button_gound" path="F:\test\CPUCardOper1\app\src\main\res\drawable-hdpi\selector_transprent_button_gound.xml" qualifiers="hdpi-v4" type="drawable"/><file name="send_img" path="F:\test\CPUCardOper1\app\src\main\res\drawable-hdpi\send_img.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="send_music_thumb" path="F:\test\CPUCardOper1\app\src\main\res\drawable-hdpi\send_music_thumb.png" qualifiers="hdpi-v4" type="drawable"/><file name="send_music_thumb_backup" path="F:\test\CPUCardOper1\app\src\main\res\drawable-hdpi\send_music_thumb_backup.png" qualifiers="hdpi-v4" type="drawable"/><file name="shape_green_wechat_normal" path="F:\test\CPUCardOper1\app\src\main\res\drawable-hdpi\shape_green_wechat_normal.xml" qualifiers="hdpi-v4" type="drawable"/><file name="shape_green_wechat_pressed" path="F:\test\CPUCardOper1\app\src\main\res\drawable-hdpi\shape_green_wechat_pressed.xml" qualifiers="hdpi-v4" type="drawable"/><file name="timg" path="F:\test\CPUCardOper1\app\src\main\res\drawable-hdpi\timg.png" qualifiers="hdpi-v4" type="drawable"/><file name="transparent_bg" path="F:\test\CPUCardOper1\app\src\main\res\drawable-hdpi\transparent_bg.png" qualifiers="hdpi-v4" type="drawable"/><file name="trans_bg" path="F:\test\CPUCardOper1\app\src\main\res\drawable-hdpi\trans_bg.png" qualifiers="hdpi-v4" type="drawable"/><file name="weixin" path="F:\test\CPUCardOper1\app\src\main\res\drawable-hdpi\weixin.png" qualifiers="hdpi-v4" type="drawable"/><file name="wojn_bg" path="F:\test\CPUCardOper1\app\src\main\res\drawable-hdpi\wojn_bg.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="zhifubao" path="F:\test\CPUCardOper1\app\src\main\res\drawable-hdpi\zhifubao.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="icon_infor_off" path="F:\test\CPUCardOper1\app\src\main\res\drawable-mdpi\icon_infor_off.png" qualifiers="mdpi-v4" type="drawable"/><file name="icon_infor_on" path="F:\test\CPUCardOper1\app\src\main\res\drawable-mdpi\icon_infor_on.png" qualifiers="mdpi-v4" type="drawable"/><file name="icon_ment_off" path="F:\test\CPUCardOper1\app\src\main\res\drawable-mdpi\icon_ment_off.png" qualifiers="mdpi-v4" type="drawable"/><file name="icon_ment_on" path="F:\test\CPUCardOper1\app\src\main\res\drawable-mdpi\icon_ment_on.png" qualifiers="mdpi-v4" type="drawable"/><file name="icon_money_off" path="F:\test\CPUCardOper1\app\src\main\res\drawable-mdpi\icon_money_off.png" qualifiers="mdpi-v4" type="drawable"/><file name="icon_money_on" path="F:\test\CPUCardOper1\app\src\main\res\drawable-mdpi\icon_money_on.png" qualifiers="mdpi-v4" type="drawable"/><file name="icon_recharge" path="F:\test\CPUCardOper1\app\src\main\res\drawable-mdpi\icon_recharge.png" qualifiers="mdpi-v4" type="drawable"/><file name="icon_recharge_off" path="F:\test\CPUCardOper1\app\src\main\res\drawable-mdpi\icon_recharge_off.png" qualifiers="mdpi-v4" type="drawable"/><file name="icon_recharge_on" path="F:\test\CPUCardOper1\app\src\main\res\drawable-mdpi\icon_recharge_on.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_launcher" path="F:\test\CPUCardOper1\app\src\main\res\drawable-mdpi\ic_launcher.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_launcher" path="F:\test\CPUCardOper1\app\src\main\res\drawable-xhdpi\ic_launcher.png" qualifiers="xhdpi-v4" type="drawable"/><file name="tips_bg" path="F:\test\CPUCardOper1\app\src\main\res\drawable-xhdpi\tips_bg.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_launcher" path="F:\test\CPUCardOper1\app\src\main\res\drawable-xxhdpi\ic_launcher.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="login_back" path="F:\test\CPUCardOper1\app\src\main\res\drawable-xxhdpi\login_back.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="login_edit_normal" path="F:\test\CPUCardOper1\app\src\main\res\drawable-xxhdpi\login_edit_normal.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="login_edit_pressed" path="F:\test\CPUCardOper1\app\src\main\res\drawable-xxhdpi\login_edit_pressed.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="login_fen_big" path="F:\test\CPUCardOper1\app\src\main\res\drawable-xxhdpi\login_fen_big.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="login_log" path="F:\test\CPUCardOper1\app\src\main\res\drawable-xxhdpi\login_log.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="login_mobil" path="F:\test\CPUCardOper1\app\src\main\res\drawable-xxhdpi\login_mobil.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="login_pass" path="F:\test\CPUCardOper1\app\src\main\res\drawable-xxhdpi\login_pass.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="login_sign" path="F:\test\CPUCardOper1\app\src\main\res\drawable-xxhdpi\login_sign.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="activity_about" path="F:\test\CPUCardOper1\app\src\main\res\layout\activity_about.xml" qualifiers="" type="layout"/><file name="activity_base" path="F:\test\CPUCardOper1\app\src\main\res\layout\activity_base.xml" qualifiers="" type="layout"/><file name="activity_card_charge" path="F:\test\CPUCardOper1\app\src\main\res\layout\activity_card_charge.xml" qualifiers="" type="layout"/><file name="activity_charge" path="F:\test\CPUCardOper1\app\src\main\res\layout\activity_charge.xml" qualifiers="" type="layout"/><file name="activity_first" path="F:\test\CPUCardOper1\app\src\main\res\layout\activity_first.xml" qualifiers="" type="layout"/><file name="activity_login" path="F:\test\CPUCardOper1\app\src\main\res\layout\activity_login.xml" qualifiers="" type="layout"/><file name="activity_main" path="F:\test\CPUCardOper1\app\src\main\res\layout\activity_main.xml" qualifiers="" type="layout"/><file name="activity_main1" path="F:\test\CPUCardOper1\app\src\main\res\layout\activity_main1.xml" qualifiers="" type="layout"/><file name="activity_online" path="F:\test\CPUCardOper1\app\src\main\res\layout\activity_online.xml" qualifiers="" type="layout"/><file name="activity_order" path="F:\test\CPUCardOper1\app\src\main\res\layout\activity_order.xml" qualifiers="" type="layout"/><file name="activity_order_activitynew" path="F:\test\CPUCardOper1\app\src\main\res\layout\activity_order_activitynew.xml" qualifiers="" type="layout"/><file name="activity_phonenuber" path="F:\test\CPUCardOper1\app\src\main\res\layout\activity_phonenuber.xml" qualifiers="" type="layout"/><file name="ccb_web_view" path="F:\test\CPUCardOper1\app\src\main\res\layout\ccb_web_view.xml" qualifiers="" type="layout"/><file name="constant_header" path="F:\test\CPUCardOper1\app\src\main\res\layout\constant_header.xml" qualifiers="" type="layout"/><file name="dialog_layout" path="F:\test\CPUCardOper1\app\src\main\res\layout\dialog_layout.xml" qualifiers="" type="layout"/><file name="fragment1" path="F:\test\CPUCardOper1\app\src\main\res\layout\fragment1.xml" qualifiers="" type="layout"/><file name="menu_button_image" path="F:\test\CPUCardOper1\app\src\main\res\layout\menu_button_image.xml" qualifiers="" type="layout"/><file name="menu_button_text" path="F:\test\CPUCardOper1\app\src\main\res\layout\menu_button_text.xml" qualifiers="" type="layout"/><file name="noorder" path="F:\test\CPUCardOper1\app\src\main\res\layout\noorder.xml" qualifiers="" type="layout"/><file name="order" path="F:\test\CPUCardOper1\app\src\main\res\layout\order.xml" qualifiers="" type="layout"/><file name="progress" path="F:\test\CPUCardOper1\app\src\main\res\layout\progress.xml" qualifiers="" type="layout"/><file name="progress_dialog" path="F:\test\CPUCardOper1\app\src\main\res\layout\progress_dialog.xml" qualifiers="" type="layout"/><file name="read" path="F:\test\CPUCardOper1\app\src\main\res\layout\read.xml" qualifiers="" type="layout"/><file name="sb_snack" path="F:\test\CPUCardOper1\app\src\main\res\layout\sb_snack.xml" qualifiers="" type="layout"/><file name="sb_snack_container" path="F:\test\CPUCardOper1\app\src\main\res\layout\sb_snack_container.xml" qualifiers="" type="layout"/><file name="share_popup_menu" path="F:\test\CPUCardOper1\app\src\main\res\layout\share_popup_menu.xml" qualifiers="" type="layout"/><file name="view_alertdialog" path="F:\test\CPUCardOper1\app\src\main\res\layout\view_alertdialog.xml" qualifiers="" type="layout"/><file name="about" path="F:\test\CPUCardOper1\app\src\main\res\menu\about.xml" qualifiers="" type="menu"/><file name="main" path="F:\test\CPUCardOper1\app\src\main\res\menu\main.xml" qualifiers="" type="menu"/><file name="online" path="F:\test\CPUCardOper1\app\src\main\res\menu\online.xml" qualifiers="" type="menu"/><file name="order" path="F:\test\CPUCardOper1\app\src\main\res\menu\order.xml" qualifiers="" type="menu"/><file name="order_activitynew" path="F:\test\CPUCardOper1\app\src\main\res\menu\order_activitynew.xml" qualifiers="" type="menu"/><file name="phonenuber" path="F:\test\CPUCardOper1\app\src\main\res\menu\phonenuber.xml" qualifiers="" type="menu"/><file name="ic_launcher" path="F:\test\CPUCardOper1\app\src\main\res\mipmap-hdpi\ic_launcher.png" qualifiers="hdpi-v4" type="mipmap"/><file name="no_http" path="F:\test\CPUCardOper1\app\src\main\res\mipmap-hdpi\no_http.jpg" qualifiers="hdpi-v4" type="mipmap"/><file name="ic_launcher" path="F:\test\CPUCardOper1\app\src\main\res\mipmap-mdpi\ic_launcher.png" qualifiers="mdpi-v4" type="mipmap"/><file name="ic_launcher" path="F:\test\CPUCardOper1\app\src\main\res\mipmap-xhdpi\ic_launcher.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="ic_action_back" path="F:\test\CPUCardOper1\app\src\main\res\mipmap-xxhdpi\ic_action_back.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_launcher" path="F:\test\CPUCardOper1\app\src\main\res\mipmap-xxhdpi\ic_launcher.png" qualifiers="xxhdpi-v4" type="mipmap"/><file path="F:\test\CPUCardOper1\app\src\main\res\values\colors.xml" qualifiers=""><color name="title_seprator2">#E4E4E4</color><color name="blueqq_normal">#FF3BB5F4</color><color name="font_light_black">#656565</color><color name="font_red">#FC000B</color><color name="greenwechat_normal">#FF45C01A</color><color name="red_pressed">#FFB22222</color><color name="bg_item_title">#ECECEC</color><color name="white_normal">#FFFFFFFF</color><color name="sb__button_text_color">#FB6541</color><color name="input_hint_color">#D9D9D9</color><color name="sb__dim_white">#20FFFFFF</color><color name="transparent">#00000000</color><color name="page_ground">#FFEFEFF4</color><color name="lightransparent">#a0000000</color><color name="red_normal">#FFFF4500</color><color name="transparent_half_2">#20000000</color><color name="transparent_half_1">#10000000</color><color name="title_seprater">#cccccc</color><color name="title_ground_normal">#FF1B7AEA</color><color name="yellowweibo_normal">#FFFCDA53</color><color name="font_origin">#00BFFF</color><color name="green">#FF00FF00</color><color name="blue">#FF0000FF</color><color name="orange">#FFFFA500</color><color name="gray">#FF888888</color><color name="purple">#FFA020F0</color><color name="white">#FFFFFFFF</color><color name="blueqq_pressed">#FF1993e2</color><color name="darkgrey">#ff404040</color><color name="bg_item_light">#EFEFEF</color><color name="lightgrey">#ff888888</color><color name="semitransparent">#80000000</color><color name="black">#FF000000</color><color name="font_dark_black">#212121</color><color name="font_color">#FF333333</color><color name="bg_gray">#dfdfdf</color><color name="sb__transparent">#00000000</color><color name="font_color_more_text">#BB000000</color><color name="white_pressed">#FFE0E0E0</color><color name="activity_charege_item_mes">#cccccc</color><color name="title_ground_pressed">#FF2C8BDB</color><color name="yellowweibo_pressed">#FFDAB831</color><color name="red">#FFFF0000</color><color name="greenwechat_pressed">#FF298409</color><color name="line_color">#C4C4C4</color><color name="sb__snack_bkgnd">#EE8262</color><color name="yellow">#FFFFFF00</color><color name="bg_green">#009900</color><color name="toasterro">#9fd524</color><drawable name="transparent">#00000000</drawable><color name="arc_blue">#00BFFF</color><color name="navpage">#FFE1E8EB</color><color name="bg_light_gray">#F3F3F3</color></file><file path="F:\test\CPUCardOper1\app\src\main\res\values\dimens.xml" qualifiers=""><dimen name="activity_card_charge_tv">16sp</dimen><dimen name="text_size_35">35sp</dimen><dimen name="dialog_padding">15dp</dimen><dimen name="PreferenceItemHeight">42dp</dimen><dimen name="dialog_font_label">16sp</dimen><dimen name="TitleTextSize">18dp</dimen><dimen name="LargestTextSize">30dp</dimen><dimen name="dialog_input_padding">12dp</dimen><dimen name="text_size_30">30sp</dimen><dimen name="vertical_margin_bottom">16dp</dimen><dimen name="ChattingContentMinHeight">49dp</dimen><dimen name="dp_5">5dp</dimen><dimen name="dp_10">10dp</dimen><dimen name="dialog_font_title">20sp</dimen><dimen name="dp_8">8dp</dimen><dimen name="LargeAvatarSize">56dp</dimen><dimen name="dp_50">50dp</dimen><dimen name="activity_item_font_tv">16sp</dimen><dimen name="SmallTextSize">14dp</dimen><dimen name="dp_15">15dp</dimen><dimen name="dialog_width">280dp</dimen><dimen name="text_size_20">20sp</dimen><dimen name="text_size_22">22sp</dimen><dimen name="activity_vertical_margin">16dp</dimen><dimen name="text_size_24">24sp</dimen><dimen name="text_size_26">26sp</dimen><dimen name="activity_charge_info">14sp</dimen><dimen name="dp_60">60dp</dimen><dimen name="BasicTextSize">15dp</dimen><dimen name="dp_100">100dp</dimen><dimen name="vertical_margin_top">16dp</dimen><dimen name="dp_3">3dp</dimen><dimen name="dialog_login_info">16sp</dimen><dimen name="dp_20">20dp</dimen><dimen name="activity_card_charge_tv_margin">3dp</dimen><dimen name="text_size_28">28sp</dimen><dimen name="dp_25">25dp</dimen><dimen name="dialog_height">265dp</dimen><dimen name="dialog_btn_padding">10dp</dimen><dimen name="text_size_12">12sp</dimen><dimen name="text_size_13">13sp</dimen><dimen name="ConversationItemHeight">58dp</dimen><dimen name="text_size_14">14sp</dimen><dimen name="text_size_15">15sp</dimen><dimen name="horizontal_margin">24dp</dimen><dimen name="text_size_16">16sp</dimen><dimen name="mobile_font_mes">12sp</dimen><dimen name="LargeTextSize">16dp</dimen><dimen name="dp_35">35dp</dimen><dimen name="activity_charge_icon_width">40dp</dimen><dimen name="dp_30">30dp</dimen><dimen name="activity_card_fill_font">16sp</dimen><dimen name="text_size_18">18sp</dimen><dimen name="activity_item_font_tv_info">18sp</dimen><dimen name="dp_80">80dp</dimen><dimen name="text_size_40">40sp</dimen><dimen name="ChattingTextSize">16dp</dimen><dimen name="activity_card_charge_info">15sp</dimen><dimen name="dialog_width_port">280dp</dimen><dimen name="dp_45">45dp</dimen><dimen name="dp_40">40dp</dimen><dimen name="activity_horizontal_margin">16dp</dimen><dimen name="SmallerTextSize">13dp</dimen></file><file path="F:\test\CPUCardOper1\app\src\main\res\values\ids.xml" qualifiers=""><item name="iv_charge_edit_id" type="id"/><item name="et_pass" type="id"/><item name="tv_findpass" type="id"/><item name="iv_charge_tv_money1" type="id"/><item name="iv_charge_tv_money3" type="id"/><item name="btn_login" type="id"/><item name="iv_charge_tv_money2" type="id"/><item name="et_user" type="id"/><item name="iv_charge_tv_money5" type="id"/><item name="iv_charge_tv_money4" type="id"/><item name="iv_charge_tv_money6" type="id"/><item name="ccb_webview" type="id">false</item><item name="tv_charge_id" type="id"/><item name="dialog" type="id"/><item name="select2" type="id"/><item name="rg" type="id"/><item name="iv_charge_tv_money22" type="id"/><item name="iv_charge_tv_money44" type="id"/><item name="iv_charge_tv_money66" type="id"/><item name="customprogressdialog_tv" type="id"/><item name="btn_login2" type="id"/><item name="et_code" type="id"/><item name="rg2" type="id"/><item name="btn_back" type="id"/><item name="dialog_title_font" type="id"/><item name="tv_verify_code" type="id"/><item name="btn_register" type="id"/><item name="select" type="id"/><item name="et_phone" type="id"/><item name="iv_charge_tv_money11" type="id"/><item name="iv_charge_tv_money33" type="id"/><item name="iv_charge_tv_money55" type="id"/></file><file path="F:\test\CPUCardOper1\app\src\main\res\values\sb_ids.xml" qualifiers=""><item name="snackMessage" type="id"/><item name="snackContainer" type="id"/><item name="snackButton" type="id"/></file><file path="F:\test\CPUCardOper1\app\src\main\res\values\strings.xml" qualifiers=""><string name="hello_world">Hello world!</string><string name="charge_money_30">1元</string><string name="title_activity_order">OrderActivity</string><string name="activity_card_charge_mes1">支付方式目前支持中国建设银行支付</string><string name="action_settings">Settings</string><string name="app_name">公交充值</string><string name="activity_card_charge_item2_tv">请选择金额</string><string name="charge_money_50">20元</string><string name="title_activity_online">OnlineActivity</string><string name="charge_cardno">卡号：</string><string name="dialog_register2_btn">立即支付</string><string name="title_activity_phonenuber">PhonenuberActivity</string><string name="charge_balance">余额：</string><string name="activity_card_charge_title">公交充值</string><string name="title_activity_order_activitynew">OrderActivitynew</string><string name="title_activity_about">AboutActivity</string><string name="charge_money_150">50元</string><string name="charge_money_300">200元</string><string name="charge_money_200">100元</string><string name="activity_card_charge_item_tv">卡片信息</string><string name="charge_money_100">30元</string></file><file path="F:\test\CPUCardOper1\app\src\main\res\values\styles.xml" qualifiers=""><style name="MMDivider">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">1px</item>
+        <item name="android:background">#B2B2B5</item>
+    </style><style name="ChattingUIVoiceLength">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">center</item>
+        <item name="android:padding">3dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/lightgrey</item>
+        <item name="android:textSize">@dimen/SmallTextSize</item>
+        <item name="android:shadowColor">#80FFFFFF</item>
+        <item name="android:shadowDy">1.4</item>
+        <item name="android:shadowDx">1.4</item>
+        <item name="android:shadowRadius">1</item>
+    </style><style name="MMLogin" parent="MMLabel">
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">@dimen/LargeTextSize</item>
+    </style><style name="MMTitle">
+        <item name="android:gravity">center</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">19dp</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:ellipsize">end</item>
+    </style><style name="MMPreferenceTextLarge">
+        <item name="android:textSize">@dimen/LargeTextSize</item>
+        <item name="android:textColor">@color/mm_pref_title</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:ellipsize">end</item>
+    </style><style name="LayoutStyle_Match">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+    </style><style name="LayoutStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style><style name="ButtonStyle_WidthMatch" parent="TextViewStyle_WidthMatch">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:background">@drawable/selector_green_wechat_circle</item>
+    </style><style name="AbsListViewStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:listSelector">@android:color/transparent</item>
+        <item name="android:gravity">top</item>
+        <item name="android:overScrollMode">never</item>
+        <item name="android:cacheColorHint">@android:color/transparent</item>
+        <item name="android:divider">@color/transparent</item>
+    </style><style name="ImageViewStyle_WidthMatch" parent="ImageViewStyle">
+        <item name="android:layout_width">match_parent</item>
+    </style><style name="LayoutStyle_WidthMatch" parent="LayoutStyle">
+        <item name="android:layout_width">match_parent</item>
+    </style><style name="ChattingUIFMessageText" parent="ChattingUIText">
+        <item name="android:textColor">@color/mm_pref_summary</item>
+        <item name="android:singleLine">true</item>
+    </style><style name="rb_style">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">50dp</item>
+        <item name="android:textColor">@drawable/rb_font_selector</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:background">@drawable/rb_selecter</item>
+        <item name="android:button">@null</item>
+        <item name="android:textSize">@dimen/activity_card_charge_tv</item>
+    </style><style name="SnackBar_Container">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">bottom</item>
+    </style><style name="MMEditText">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:textSize">@dimen/BasicTextSize</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:background">@drawable/mm_edit</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:minHeight">43dp</item>
+        <item name="android:textColorHint">@color/lightgrey</item>
+    </style><style name="MMLabel" parent="MMBriefText">
+        <item name="android:gravity">center_vertical</item>
+    </style><style name="AlertDialogStyle" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+    </style><style name="ImageViewStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:adjustViewBounds">false</item>
+    </style><style name="MMPreferenceTextSmall">
+        <item name="android:textSize">@dimen/SmallTextSize</item>
+        <item name="android:textColor">@color/mm_pref_summary</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:ellipsize">end</item>
+    </style><style name="LayoutStyle_HeightMatch" parent="LayoutStyle">
+        <item name="android:layout_height">match_parent</item>
+    </style><style name="ListViewStyle" parent="AbsListViewStyle">
+        <item name="android:dividerHeight">@dimen/dp_20</item>
+    </style><style name="ScrollViewStyle_Padding20" parent="ScrollViewStyle">
+        <item name="android:padding">@dimen/dp_20</item>
+    </style><style name="GridViewList" parent="AbsListViewStyle">
+        <item name="android:verticalSpacing">@dimen/dp_20</item>
+        <item name="android:horizontalSpacing">@dimen/dp_20</item>
+        <item name="android:numColumns">3</item>
+    </style><style name="MMLineEditText" parent="@style/MMEditText">
+        <item name="android:layout_width">fill_parent</item>
+    </style><style name="MMLineButton" parent="@style/MMButton">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/mm_style_two_btn_text</item>
+    </style><style name="MMFriendListItem" parent="MMListItem">
+        <item name="android:paddingLeft">16dp</item>
+        <item name="android:paddingRight">6dp</item>
+        <item name="android:paddingTop">6dp</item>
+        <item name="android:paddingBottom">6dp</item>
+    </style><style name="BottomDialogAnimation" parent="@android:style/Animation.Dialog">
+        <item name="android:windowEnterAnimation">@anim/anim_dialog_bottom_in</item>
+        <item name="android:windowExitAnimation">@anim/anim_dialog_bottom_out</item>
+    </style><style name="SnackBar_SnackBar">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">bottom</item>
+        <item name="android:minHeight">48dp</item>
+        <item name="android:maxHeight">80dp</item>
+        <item name="android:orientation">horizontal</item>
+        <item name="android:background">@color/sb__snack_bkgnd</item>
+        <item name="android:clickable">true</item>
+        <item name="android:layout_alignParentBottom">true</item>
+    </style><style name="MMFontPreferenceProfile" parent="MMFontPreferenceLarge">
+        <item name="android:textSize">@dimen/TitleTextSize</item>
+    </style><style name="MMButton">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:textSize">16dp</item>
+        <item name="android:textColor">@color/mm_btn_text</item>
+        <item name="android:background">@null</item>
+        <item name="android:minHeight">40dp</item>
+        <item name="android:minWidth">40dp</item>
+    </style><style name="AbsItemGroup" parent="LayoutStyle_WidthMatch">
+        <item name="android:layout_height">?android:attr/actionBarSize</item>
+        <item name="android:background">@drawable/selector_green_wechat_circle</item>
+        <item name="android:gravity">center_vertical</item>
+    </style><style name="MMFontEmptyMsgLarge" parent="MMFontPreferenceLarge">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">@color/mm_pref_summary</item>
+    </style><style name="ActionSheetDialogStyle" parent="@android:style/Theme.NoDisplay">
+        
+        <item name="android:windowBackground">@android:color/transparent</item>
+        
+        <item name="android:windowContentOverlay">@null</item>
+        
+        <item name="android:windowIsFloating">true</item>
+        
+        <item name="android:windowFrame">@null</item>
+        
+        <item name="android:backgroundDimEnabled">true</item>
+        
+        <item name="android:windowNoTitle">true</item>
+        
+        <item name="android:windowIsTranslucent">true</item>
+        
+        <item name="android:windowAnimationStyle">@style/BottomDialogAnimation</item>
+    </style><style name="AppTheme" parent="AppBaseTheme">
+        <item name="android:windowFullscreen">false</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:textColor">@color/font_color</item>
+        <item name="android:textSize">@dimen/text_size_14</item>
+        <item name="android:windowBackground">@color/page_ground</item>
+    </style><style name="TextViewStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style><style name="ListItemGroup" parent="AbsItemGroup">
+        <item name="android:paddingLeft">@dimen/dp_10</item>
+        <item name="android:paddingRight">@dimen/dp_10</item>
+    </style><style name="SnackBar_Message">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:layout_marginLeft">@dimen/horizontal_margin</item>
+        <item name="android:layout_marginTop">@dimen/vertical_margin_top</item>
+        <item name="android:layout_marginBottom">@dimen/vertical_margin_bottom</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:textColor">#fff</item>
+    </style><style name="MMLine">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:orientation">horizontal</item>
+    </style><style name="GridItemGroup" parent="AbsItemGroup">
+        <item name="android:gravity">center</item>
+    </style><style name="MMFontPreferenceSmall">
+        <item name="android:textAppearance">@style/MMPreferenceTextSmall</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:shadowColor">#A0FFFFFF</item>
+        <item name="android:shadowDy">1.2</item>
+        <item name="android:shadowDx">1.2</item>
+        <item name="android:shadowRadius">1</item>
+    </style><style name="NavPage">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:gravity">center_horizontal</item>
+        
+        <item name="android:background">@color/navpage</item>
+    </style><style name="MMFooter">
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">54dp</item>
+        <item name="android:minHeight">54dp</item>
+    </style><style name="MMCheckBox">
+        <item name="android:background">@drawable/mm_checkbox_btn</item>
+    </style><style name="ChattingUISplit">
+        <item name="android:layout_gravity">center</item>
+        <item name="android:layout_marginTop">6dp</item>
+        <item name="android:layout_marginBottom">6dp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@null</item>
+        <item name="android:textColor">@color/lightgrey</item>
+        <item name="android:textSize">12dp</item>
+        <item name="android:shadowDy">1.2</item>
+        <item name="android:shadowDx">1.2</item>
+        <item name="android:shadowRadius">1</item>
+        <item name="android:shadowColor">#A0FFFFFF</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:visibility">gone</item>
+        <item name="android:paddingTop">11dp</item>
+        <item name="android:paddingBottom">6dp</item>
+    </style><style name="MMLabelSplit">
+        <item name="android:layout_width">10dp</item>
+        <item name="android:layout_height">13dp</item>
+        <item name="android:background">@null</item>
+        <item name="android:gravity">center</item>
+    </style><style name="MMListCatalog">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">#CED2D7</item>
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:paddingTop">2dp</item>
+        <item name="android:paddingBottom">2dp</item>
+        <item name="android:orientation">horizontal</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:textSize">14dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#595C61</item>
+    </style><style name="TextViewStyle_HeightMatch" parent="TextViewStyle">
+        <item name="android:layout_height">match_parent</item>
+    </style><style name="SnackBar_Button">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:drawablePadding">12dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:paddingLeft">@dimen/horizontal_margin</item>
+        <item name="android:paddingRight">@dimen/horizontal_margin</item>
+        <item name="android:paddingTop">@dimen/vertical_margin_top</item>
+        <item name="android:paddingBottom">@dimen/vertical_margin_bottom</item>
+        <item name="android:textColor">@color/sb_default_button_text_color</item>
+        <item name="android:editable">false</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:layout_gravity">center_vertical</item>
+    </style><style name="MMLineEditPass" parent="@style/MMLineEditText">
+        <item name="android:password">true</item>
+        <item name="android:inputType">textPassword</item>
+    </style><style name="MMFontTitleInList">
+        <item name="android:textSize">@dimen/LargeTextSize</item>
+        <item name="android:textColor">@color/mm_list_textcolor_one</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">center_vertical</item>
+        
+    </style><style name="TextListItem" parent="TextViewStyle_WidthMatch">
+        <item name="android:textColor">@color/white</item>
+    </style><style name="MMSplit">
+        <item name="android:layout_width">8dp</item>
+        <item name="android:layout_height">5dp</item>
+        <item name="android:background">@null</item>
+        <item name="android:gravity">center</item>
+    </style><style name="ChattingUIWordCount">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#000000</item>
+        <item name="android:textSize">13dp</item>
+    </style><style name="MMBlock">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:orientation">vertical</item>
+    </style><style name="DataSheetAnimation" parent="@android:style/Animation.Dialog">
+        <item name="android:windowEnterAnimation">@anim/push_up_in</item>
+    </style><style name="TextGridItem" parent="TextViewStyle">
+        <item name="android:textColor">@color/white</item>
+    </style><style name="MMMultiLineEditText" parent="@style/MMLineEditText">
+        <item name="android:singleLine">false</item>
+        <item name="android:minLines">3</item>
+        <item name="android:gravity">top</item>
+    </style><style name="ChattingUISenderText">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">left|center_vertical</item>
+        <item name="android:textColor">#3F3F3F</item>
+        <item name="android:textSize">@dimen/SmallTextSize</item>
+        <item name="android:shadowDy">1.2</item>
+        <item name="android:shadowDx">1.2</item>
+        <item name="android:shadowRadius">1</item>
+        <item name="android:shadowColor">#A0FFFFFF</item>
+        <item name="android:maxWidth">240dp</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:paddingLeft">7dp</item>
+        <item name="android:paddingRight">7dp</item>
+        <item name="android:paddingBottom">2dp</item>
+    </style><style name="ChattingUIThumbnail">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:maxWidth">240dp</item>
+    </style><style name="MMFontPreferenceSummary" parent="MMFontPreferenceSmall">
+        <item name="android:textAppearance">@style/MMPreferenceTextSmall</item>
+        <item name="android:textSize">@dimen/BasicTextSize</item>
+    </style><style name="dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:background">@null</item>
+        <item name="android:backgroundDimEnabled">false</item>
+        <item name="android:windowBackground"> @android:color/transparent </item>
+    </style><style name="ChattingUIText">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">left|center_vertical</item>
+        <item name="android:textColor">#000000</item>
+        <item name="android:textSize">@dimen/ChattingTextSize</item>
+        <item name="android:lineSpacingExtra">2dp</item>
+        <item name="android:maxWidth">240dp</item>
+        <item name="android:minHeight">15dp</item>
+    </style><style name="ChattingUISystem">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#F0F0F0</item>
+        <item name="android:textSize">14dp</item>
+    </style><style name="MMBody">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:paddingLeft">18dp</item>
+        <item name="android:paddingRight">18dp</item>
+        <item name="android:paddingTop">26dp</item>
+        <item name="android:paddingBottom">18dp</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:fadingEdge">@null</item>
+    </style><style name="MMFontTipInList">
+        <item name="android:textSize">@dimen/SmallTextSize</item>
+        <item name="android:textColor">@color/mm_list_textcolor_two</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">center_vertical</item>
+    </style><style name="MMScroll">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">0dip</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:orientation">vertical</item>
+        
+    </style><style name="MMFontPreferenceLarge">
+        <item name="android:textAppearance">@style/MMPreferenceTextLarge</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">center_vertical</item>
+    </style><style name="MMTitleButton">
+        <item name="android:gravity">center</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:minWidth">75dp</item>
+        <item name="android:background">@null</item>
+        <item name="android:visibility">gone</item>
+    </style><style name="TitleText">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">@dimen/BasicTextSize</item>
+        <item name="android:textColor">#ff000000</item>
+    </style><style name="TextViewStyle_WidthMatch" parent="TextViewStyle">
+        <item name="android:layout_width">match_parent</item>
+    </style><style name="ImageViewStyle_WidthMatch_Original" parent="ImageViewStyle_WidthMatch">
+        <item name="android:layout_gravity">center_horizontal</item>
+        <item name="android:layout_marginBottom">@dimen/dp_20</item>
+    </style><style name="HyperText" parent="MMButton">
+        <item name="android:background">@null</item>
+        <item name="android:textColor">@color/mm_hyper_text</item>
+        <item name="android:textSize">@dimen/BasicTextSize</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style><style name="MMLineLabel" parent="MMLabel">
+        <item name="android:gravity">left</item>
+        <item name="android:paddingLeft">5dp</item>
+        <item name="android:paddingRight">5dp</item>
+    </style><style name="ScrollViewStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style><style name="MMLineActionButton" parent="@style/MMLineButton">
+        <item name="android:background">@drawable/btn_style_one</item>
+        <item name="android:textColor">@color/mm_style_one_btn_text</item>
+        <item name="android:shadowColor">#000000</item>
+        <item name="android:shadowDy">1.2</item>
+        <item name="android:shadowDx">1.2</item>
+        <item name="android:shadowRadius">1</item>
+    </style><style name="MMFontTimeInList" parent="MMFontTipInList">
+        <item name="android:textSize">@dimen/SmallTextSize</item>
+        <item name="android:textColor">@color/mm_list_textcolor_time</item>
+    </style><style name="main_tab_style">
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_width">0dip</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:button">@null</item>
+        <item name="android:paddingTop">7dip</item>
+        <item name="android:textSize">13dip</item>
+        <item name="android:paddingBottom">6dip</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">@color/main_tab_color_bg</item>
+    </style><style name="ChattingUIMailSenderText">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">left|center_vertical</item>
+        <item name="android:textColor">#4271AD</item>
+        <item name="android:textSize">@dimen/BasicTextSize</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:maxWidth">240dp</item>
+        <item name="android:singleLine">true</item>
+    </style><style name="MMToolbarButton" parent="@style/MMButton">
+        <item name="android:minWidth">45dp</item>
+        <item name="android:minHeight">50dp</item>
+        <item name="android:textSize">@dimen/SmallerTextSize</item>
+        <item name="android:textColor">#2C2C2C</item>
+        <item name="android:gravity">center</item>
+        <item name="android:singleLine">true</item>
+    </style><style name="MMListItem">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">60dp</item>
+        <item name="android:minHeight">60dp</item>
+        <item name="android:paddingTop">4dp</item>
+        <item name="android:paddingRight">4dp</item>
+        <item name="android:paddingLeft">4dp</item>
+        <item name="android:paddingBottom">4dp</item>
+        <item name="android:orientation">horizontal</item>
+        <item name="android:gravity">center_vertical</item>
+    </style><style name="ChattingUIContent">
+        <item name="android:orientation">horizontal</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:paddingLeft">6dp</item>
+        <item name="android:paddingRight">6dp</item>
+        <item name="android:paddingBottom">10dp</item>
+    </style><style name="MMBriefText">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#707070</item>
+        <item name="android:textSize">@dimen/BasicTextSize</item>
+        <item name="android:shadowColor">#A0FFFFFF</item>
+        <item name="android:shadowDy">1.2</item>
+        <item name="android:shadowDx">1.2</item>
+        <item name="android:shadowRadius">1</item>
+        <item name="android:lineSpacingExtra">2dp</item>
+    </style><style name="dialog_back">
+        <item name="android:id">@id/btn_back</item>
+        <item name="android:layout_width">30dp</item>
+        <item name="android:layout_height">32dp</item>
+        <item name="android:padding">0dp</item>
+        <item name="android:layout_gravity">left|center_vertical</item>
+        <item name="android:src">@drawable/dialog_back</item>
+    </style><style name="AppBaseTheme" parent="@android:style/Theme.Light"/><style name="ChoicePreferenceButton">
+        <item name="android:button">@null</item>
+        <item name="android:minWidth">60dp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">@color/mm_choice_text_color</item>
+    </style></file><file path="F:\test\CPUCardOper1\app\src\main\res\values-v11\styles.xml" qualifiers="v11"><style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+        
+    </style></file><file path="F:\test\CPUCardOper1\app\src\main\res\values-v14\styles.xml" qualifiers="v14"><style name="AppBaseTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        
+    </style></file><file path="F:\test\CPUCardOper1\app\src\main\res\values-w820dp\dimens.xml" qualifiers="w820dp-v13"><dimen name="activity_horizontal_margin">64dp</dimen></file><file name="nfc_tech_filter" path="F:\test\CPUCardOper1\app\src\main\res\xml\nfc_tech_filter.xml" qualifiers="" type="xml"/></source><source path="F:\test\CPUCardOper1\app\build\generated\res\rs\debug"/><source path="F:\test\CPUCardOper1\app\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="F:\test\CPUCardOper1\app\src\debug\res"/></dataSet><mergedItems/></merger>

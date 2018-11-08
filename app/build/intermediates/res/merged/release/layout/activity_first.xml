@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <include layout="@layout/constant_header" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="180dip"
+        android:background="@drawable/home_picture1" />
+    
+    <RadioGroup 
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        android:layout_margin="8dp">
+        <RadioButton
+            android:id="@+id/rbNFC"
+            android:gravity="center_horizontal"
+            android:button="@null"
+            android:drawableTop="@drawable/icon_recharge"
+            android:text="NFC充值"/>
+    </RadioGroup>
+
+</LinearLayout>

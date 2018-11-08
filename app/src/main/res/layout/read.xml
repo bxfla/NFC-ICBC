@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="vertical" >
+
+        <!-- layout_height 不能设置fill_parent -->
+        <!-- layout_weight=1是最关键的，否则底部的LinearLayout无法到底部 -->
+
+        <RelativeLayout
+            android:id="@+id/homepage_title"
+            android:layout_width="fill_parent"
+            android:layout_height="50dp"
+            android:background="#00BFFF" >
+
+            <RelativeLayout
+                android:id="@+id/alljob_black"
+                android:layout_width="100dp"
+                android:layout_height="fill_parent"
+                android:layout_marginLeft="5dp" >
+
+                <ImageView
+                    android:id="@+id/newdema_location"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:src="@drawable/fujin_03" />
+            </RelativeLayout>
+
+            <TextView
+                android:id="@+id/readTitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true"
+                android:gravity="center_vertical"
+                android:text=""
+                android:textColor="#ffffff"
+                android:textSize="25sp" />
+        </RelativeLayout>
+
+        <!-- 刷卡图片 -->
+
+        <TextView
+            android:id="@+id/tttt"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dip"
+            android:gravity="center"
+            android:text="（请将公交卡贴在手机背面）"
+            android:textColor="#000000"
+            android:textSize="15sp" />
+
+        <ImageView
+            android:id="@+id/cardImg"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="40dp"
+            android:src="@drawable/card" />
+
+        <com.nohttp.dialog.DrawHookView
+            android:id="@+id/flagImg"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="15dp"
+            android:src="@drawable/succ_32"
+            android:visibility="gone" />
+
+        <com.nohttp.util.SuperLoadingProgress
+            android:id="@+id/pro"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="15dp"
+            android:visibility="gone" />
+
+        <ImageView
+            android:id="@+id/flagfalseImg"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="15dp"
+            android:src="@drawable/fail_32"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/falsete1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dip"
+            android:gravity="center"
+            android:text="充值成功"
+            android:textColor="#00BFFF"
+            android:textSize="30sp" />
+
+        <LinearLayout
+            android:id="@+id/falsete2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="5dip"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="充值金额"
+                android:textColor="#00BFFF"
+                android:textSize="22sp" />
+
+            <TextView
+                android:id="@+id/readToast"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=""
+                android:textColor="#ff0000"
+                android:textSize="22sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="元"
+                android:textColor="#00BFFF"
+                android:textSize="20sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="5dip"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="卡内余额为"
+                android:textColor="#00BFFF"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/readMess"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=""
+                android:textColor="#ff0000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="元"
+                android:textColor="#00BFFF"
+                android:textSize="20sp" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="bottom"
+        android:orientation="vertical" >
+
+        <Button
+            android:id="@+id/toHomeBtnId"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginBottom="25dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="35dp"
+            android:background="#00BFFF"
+            android:text="返回首页"
+            android:textColor="#ffffff"
+            android:textSize="30sp"
+            android:visibility="gone" />
+    </LinearLayout>
+
+</LinearLayout>
